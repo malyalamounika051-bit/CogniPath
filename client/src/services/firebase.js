@@ -11,7 +11,7 @@ import {
 } from 'firebase/auth';
 
 const firebaseConfig = {
-  apiKey: import.meta.env.VITE_FIREBASE_API_KEY || "",
+  apiKey: import.meta.env.VITE_FIREBASE_API_KEY || "AIzaSyBwqlEn2dkaQ5CkDYFfIPrTWVOJn1jotjU",
   authDomain: import.meta.env.VITE_FIREBASE_AUTH_DOMAIN || "cognipath-0000.firebaseapp.com",
   projectId: import.meta.env.VITE_FIREBASE_PROJECT_ID || "cognipath-0000",
   storageBucket: import.meta.env.VITE_FIREBASE_STORAGE_BUCKET || "cognipath-0000.firebasestorage.app",
