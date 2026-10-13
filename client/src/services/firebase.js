@@ -11,13 +11,13 @@ import {
 } from 'firebase/auth';
 
 const firebaseConfig = {
-  apiKey: "AIzaSyBwqlEn2dkaQ5CkDYFfIPrTWVOJn1jotjU",
-  authDomain: "cognipath-0000.firebaseapp.com",
-  projectId: "cognipath-0000",
-  storageBucket: "cognipath-0000.firebasestorage.app",
-  messagingSenderId: "492682779809",
-  appId: "1:492682779809:web:da22cffd1d90c65d96e4e0",
-  measurementId: "G-0PYZKSNZ0K"
+  apiKey: import.meta.env.VITE_FIREBASE_API_KEY || "",
+  authDomain: import.meta.env.VITE_FIREBASE_AUTH_DOMAIN || "cognipath-0000.firebaseapp.com",
+  projectId: import.meta.env.VITE_FIREBASE_PROJECT_ID || "cognipath-0000",
+  storageBucket: import.meta.env.VITE_FIREBASE_STORAGE_BUCKET || "cognipath-0000.firebasestorage.app",
+  messagingSenderId: import.meta.env.VITE_FIREBASE_MESSAGING_SENDER_ID || "492682779809",
+  appId: import.meta.env.VITE_FIREBASE_APP_ID || "1:492682779809:web:da22cffd1d90c65d96e4e0",
+  measurementId: import.meta.env.VITE_FIREBASE_MEASUREMENT_ID || "G-0PYZKSNZ0K"
 };
 
 // Initialize Firebase
