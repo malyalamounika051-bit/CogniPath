@@ -1,0 +1,88 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --font-scale: 1rem;
+  --letter-spacing: normal;
+  --line-height: 1.6;
+}
+
+body {
+  font-family: 'Plus Jakarta Sans', Inter, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  font-size: var(--font-scale);
+  letter-spacing: var(--letter-spacing);
+  line-height: var(--line-height);
+  background-color: #f8fafc; /* 60% Neutral Canvas */
+  color: #0f172a;
+  min-height: 100vh;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* Subtle architectural dot grid for high-end aesthetic */
+.bg-grid-pattern {
+  background-size: 32px 32px;
+  background-image: radial-gradient(rgba(148, 163, 184, 0.22) 1px, transparent 1px);
+}
+
+/* Glassmorphism panels */
+.glass-panel {
+  background: rgba(255, 255, 255, 0.88);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border: 1px solid rgba(226, 232, 240, 0.85);
+}
+
+.glass-panel-dark {
+  background: rgba(15, 23, 42, 0.85);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+/* 60-30-10 Radiant Accent Glows */
+.accent-glow-amber {
+  box-shadow: 0 0 35px -8px rgba(245, 158, 11, 0.35);
+}
+
+.accent-glow-cyan {
+  box-shadow: 0 0 35px -8px rgba(14, 165, 233, 0.35);
+}
+
+.accent-glow-emerald {
+  box-shadow: 0 0 35px -8px rgba(16, 185, 129, 0.35);
+}
+
+/* Dyslexia mode overrides */
+body.font-dyslexic {
+  font-family: 'Comic Sans MS', 'Chalkboard SE', 'Verdana', sans-serif !important;
+  letter-spacing: 0.05em !important;
+  word-spacing: 0.1em !important;
+  line-height: 1.85 !important;
+}
+
+body.reading-focus-active {
+  background-color: #fefce8 !important; /* Warm light yellow reading tint */
+}
+
+/* Accessible focus styling */
+:focus-visible {
+  outline: 2px solid #0284c7;
+  outline-offset: 2px;
+}
+
+/* Custom modern scrollbars */
+::-webkit-scrollbar {
+  width: 7px;
+  height: 7px;
+}
+::-webkit-scrollbar-track {
+  background: #f1f5f9;
+}
+::-webkit-scrollbar-thumb {
+  background: #cbd5e1;
+  border-radius: 9999px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #94a3b8;
+}

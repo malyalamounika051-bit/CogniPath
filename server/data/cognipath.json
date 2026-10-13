@@ -1,0 +1,3064 @@
+{
+  "users": [
+    {
+      "id": "usr_1791902430793_w68lu",
+      "name": "Mounika Malyala",
+      "email": "malyalamounika051@gmail.com",
+      "passwordHash": "$2b$10$Jfrxy6fKzughc0VBIt2.ke.Fp/X6fODgEWoOwYNlBG1g0Qc9dEHQG",
+      "preferences": {
+        "fontSize": "normal",
+        "dyslexicFont": false,
+        "readingFocusMode": false
+      },
+      "createdAt": "2026-10-13T14:40:30.793Z",
+      "updatedAt": "2026-10-13T14:40:30.793Z"
+    },
+    {
+      "id": "usr_1791903416018_e760m",
+      "name": "Firebase Test User",
+      "email": "firebase_test@cognipath.edu",
+      "firebaseUid": "fb_test_uid_99214",
+      "photoURL": null,
+      "preferences": {
+        "fontSize": "normal",
+        "dyslexicFont": false,
+        "readingFocusMode": false
+      },
+      "createdAt": "2026-10-13T14:56:56.018Z",
+      "updatedAt": "2026-10-13T14:56:56.020Z"
+    }
+  ],
+  "sessions": [
+    {
+      "id": "sess_1791872026755_m3mbc",
+      "userId": "guest",
+      "featureType": "decoder",
+      "inputTitle": "Application Programming Interface",
+      "inputSummary": "An API allows software applications to communicate with each other.",
+      "status": "completed",
+      "createdAt": "2026-10-13T06:13:46.755Z",
+      "updatedAt": "2026-10-13T06:13:46.755Z"
+    },
+    {
+      "id": "sess_1791872680134_g2d6o",
+      "userId": "guest",
+      "featureType": "decoder",
+      "inputTitle": "Photosynthesis",
+      "inputSummary": "Photosynthesis is an endothermic biochemical conversion where photoautotrophic organisms transform electromagnetic radia",
+      "status": "completed",
+      "createdAt": "2026-10-13T06:24:40.135Z",
+      "updatedAt": "2026-10-13T06:24:40.135Z"
+    },
+    {
+      "id": "sess_1791872691835_xvqec",
+      "userId": "guest",
+      "featureType": "decoder",
+      "inputTitle": "Photosynthesis is an endothermic biochemical conve...",
+      "inputSummary": "Photosynthesis is an endothermic biochemical conversion where photoautotrophic organisms transform electromagnetic radia",
+      "status": "completed",
+      "createdAt": "2026-10-13T06:24:51.835Z",
+      "updatedAt": "2026-10-13T06:24:51.835Z"
+    },
+    {
+      "id": "sess_1791872727509_0z98v",
+      "userId": "guest",
+      "featureType": "decoder",
+      "inputTitle": "The word chlorophyll breaks down from two Greek ro...",
+      "inputSummary": "The word chlorophyll breaks down from two Greek roots: khloros (meaning pale green) and phyllon (meaning leaf).\nComplex ",
+      "status": "completed",
+      "createdAt": "2026-10-13T06:25:27.509Z",
+      "updatedAt": "2026-10-13T06:25:27.509Z"
+    },
+    {
+      "id": "sess_1791872765009_634v1",
+      "userId": "guest",
+      "featureType": "focus_cards",
+      "inputTitle": "Bite-Sized Guide: chlorophyll",
+      "inputSummary": "The word chlorophyll breaks down from two Greek roots: khloros (meaning pale green) and phyllon (meaning leaf).\nComplex ",
+      "status": "completed",
+      "createdAt": "2026-10-13T06:26:05.009Z",
+      "updatedAt": "2026-10-13T06:26:05.009Z"
+    },
+    {
+      "id": "sess_1791872800054_lam11",
+      "userId": "guest",
+      "featureType": "decoder",
+      "inputTitle": "The word chlorophyll breaks down from two Greek ro...",
+      "inputSummary": "The word chlorophyll breaks down from two Greek roots: khloros (meaning pale green) and phyllon (meaning leaf).\nComplex ",
+      "status": "completed",
+      "createdAt": "2026-10-13T06:26:40.054Z",
+      "updatedAt": "2026-10-13T06:26:40.054Z"
+    },
+    {
+      "id": "sess_1791872825892_ygwig",
+      "userId": "guest",
+      "featureType": "focus_cards",
+      "inputTitle": "Bite-Sized Guide: The word chlorophyll breaks down from two Greek roots: khloros (meaning pale green) and phyllon (mea",
+      "inputSummary": "The word chlorophyll breaks down from two Greek roots: khloros (meaning pale green) and phyllon (meaning leaf).\nComplex ",
+      "status": "completed",
+      "createdAt": "2026-10-13T06:27:05.892Z",
+      "updatedAt": "2026-10-13T06:27:05.893Z"
+    },
+    {
+      "id": "sess_1791872892208_rbiel",
+      "userId": "guest",
+      "featureType": "mode_story",
+      "inputTitle": "chlorophyll",
+      "inputSummary": "Adaptive Mode: story",
+      "status": "completed",
+      "createdAt": "2026-10-13T06:28:12.208Z",
+      "updatedAt": "2026-10-13T06:28:12.208Z"
+    },
+    {
+      "id": "sess_1791873066952_l3i0x",
+      "userId": "guest",
+      "featureType": "task_breakdown",
+      "inputTitle": "Computer Networks",
+      "inputSummary": "5 tasks estimated at 120 mins",
+      "status": "completed",
+      "createdAt": "2026-10-13T06:31:06.952Z",
+      "updatedAt": "2026-10-13T06:31:06.952Z"
+    },
+    {
+      "id": "sess_1791876143762_idswq",
+      "userId": "guest",
+      "featureType": "decoder",
+      "inputTitle": "chlorophyll",
+      "inputSummary": "chlorophyll",
+      "status": "completed",
+      "createdAt": "2026-10-13T07:22:23.762Z",
+      "updatedAt": "2026-10-13T07:22:23.762Z"
+    },
+    {
+      "id": "sess_1791876143798_rtwrv",
+      "userId": "guest",
+      "featureType": "mode_story",
+      "inputTitle": "chlorophyll",
+      "inputSummary": "Adaptive Mode: story",
+      "status": "completed",
+      "createdAt": "2026-10-13T07:22:23.798Z",
+      "updatedAt": "2026-10-13T07:22:23.798Z"
+    },
+    {
+      "id": "sess_1791876143810_jg8qb",
+      "userId": "guest",
+      "featureType": "focus_cards",
+      "inputTitle": "Chlorophyll Etymology",
+      "inputSummary": "The word chlorophyll breaks down from two Greek roots: khloros (meaning pale green) and phyllon (meaning leaf). Discover",
+      "status": "completed",
+      "createdAt": "2026-10-13T07:22:23.810Z",
+      "updatedAt": "2026-10-13T07:22:23.810Z"
+    },
+    {
+      "id": "sess_1791877662769_izmjb",
+      "userId": "guest",
+      "featureType": "decoder",
+      "inputTitle": "Photosynthesis is the biological process by which ...",
+      "inputSummary": "Photosynthesis is the biological process by which plants, algae, and cyanobacteria convert light energy into chemical en",
+      "status": "completed",
+      "createdAt": "2026-10-13T07:47:42.769Z",
+      "updatedAt": "2026-10-13T07:47:42.771Z"
+    },
+    {
+      "id": "sess_1791877669094_r9rlk",
+      "userId": "guest",
+      "featureType": "decoder",
+      "inputTitle": "Photosynthesis is the biological process by which ...",
+      "inputSummary": "Photosynthesis is the biological process by which plants, algae, and cyanobacteria convert light energy into chemical en",
+      "status": "completed",
+      "createdAt": "2026-10-13T07:47:49.094Z",
+      "updatedAt": "2026-10-13T07:47:49.094Z"
+    },
+    {
+      "id": "sess_1791878084161_qj2m5",
+      "userId": "guest",
+      "featureType": "decoder",
+      "inputTitle": "photosynthesis",
+      "inputSummary": "photosynthesis",
+      "status": "completed",
+      "createdAt": "2026-10-13T07:54:44.161Z",
+      "updatedAt": "2026-10-13T07:54:44.161Z"
+    },
+    {
+      "id": "sess_1791878108741_4l8km",
+      "userId": "guest",
+      "featureType": "decoder",
+      "inputTitle": "photosynthesis",
+      "inputSummary": "Photosynthesis is the process by which plants make food. Chlorophyll absorbs sunlight.",
+      "status": "completed",
+      "createdAt": "2026-10-13T07:55:08.741Z",
+      "updatedAt": "2026-10-13T07:55:08.741Z"
+    },
+    {
+      "id": "sess_1791878538228_yzepf",
+      "userId": "guest",
+      "featureType": "focus_cards",
+      "inputTitle": "Live AI is not configured for custom topic 'Pho",
+      "inputSummary": "Live AI is not configured for custom topic 'Photosynthesis is the biological process by which plants, algae, and cyanoba",
+      "status": "completed",
+      "createdAt": "2026-10-13T08:02:18.228Z",
+      "updatedAt": "2026-10-13T08:02:18.228Z"
+    },
+    {
+      "id": "sess_1791878877798_6vyki",
+      "userId": "guest",
+      "featureType": "focus_cards",
+      "inputTitle": "Photosynthesis is the biological process by which plants,...",
+      "inputSummary": "Photosynthesis is the biological process by which plants, algae, and cyanobacteria convert light energy into chemical en",
+      "status": "completed",
+      "createdAt": "2026-10-13T08:07:57.798Z",
+      "updatedAt": "2026-10-13T08:07:57.799Z"
+    },
+    {
+      "id": "sess_1791878921662_j4g4p",
+      "userId": "guest",
+      "featureType": "focus_cards",
+      "inputTitle": "Photosynthesis is the biological process by which plants,...",
+      "inputSummary": "Photosynthesis is the biological process by which plants, algae, and cyanobacteria convert light energy into chemical en",
+      "status": "completed",
+      "createdAt": "2026-10-13T08:08:41.662Z",
+      "updatedAt": "2026-10-13T08:08:41.664Z"
+    },
+    {
+      "id": "sess_1791878937468_qk0gr",
+      "userId": "guest",
+      "featureType": "decoder",
+      "inputTitle": "Photosynthesis is the biological process by which ...",
+      "inputSummary": "Photosynthesis is the biological process by which plants, algae, and cyanobacteria convert light energy into chemical en",
+      "status": "completed",
+      "createdAt": "2026-10-13T08:08:57.468Z",
+      "updatedAt": "2026-10-13T08:08:57.468Z"
+    },
+    {
+      "id": "sess_1791878985883_qii7l",
+      "userId": "guest",
+      "featureType": "focus_cards",
+      "inputTitle": "Photosynthesis is the biological process by which plants,...",
+      "inputSummary": "Photosynthesis is the biological process by which plants, algae, and cyanobacteria convert light energy into chemical en",
+      "status": "completed",
+      "createdAt": "2026-10-13T08:09:45.883Z",
+      "updatedAt": "2026-10-13T08:09:45.883Z"
+    },
+    {
+      "id": "sess_1791878999103_5wwc1",
+      "userId": "guest",
+      "featureType": "decoder",
+      "inputTitle": "Photosynthesis is the biological process by which ...",
+      "inputSummary": "Photosynthesis is the biological process by which plants, algae, and cyanobacteria convert light energy into chemical en",
+      "status": "completed",
+      "createdAt": "2026-10-13T08:09:59.103Z",
+      "updatedAt": "2026-10-13T08:09:59.103Z"
+    },
+    {
+      "id": "sess_1791879046527_msu1l",
+      "userId": "guest",
+      "featureType": "decoder",
+      "inputTitle": "A deadlock in an operating system is a state where...",
+      "inputSummary": "A deadlock in an operating system is a state where a set of processes are permanently blocked because each process holds",
+      "status": "completed",
+      "createdAt": "2026-10-13T08:10:46.527Z",
+      "updatedAt": "2026-10-13T08:10:46.527Z"
+    },
+    {
+      "id": "sess_1791880483995_bsmkb",
+      "userId": "guest",
+      "featureType": "decoder",
+      "inputTitle": "Operating System Deadlock",
+      "inputSummary": "A deadlock in an operating system is a state where a set of processes are permanently blocked because each process holds",
+      "status": "completed",
+      "createdAt": "2026-10-13T08:34:43.995Z",
+      "updatedAt": "2026-10-13T08:34:43.997Z"
+    },
+    {
+      "id": "sess_1791880601863_vxejq",
+      "userId": "guest",
+      "featureType": "decoder",
+      "inputTitle": "Operating System Deadlock",
+      "inputSummary": "A deadlock in an operating system is a state where a set of processes are permanently blocked because each process holds",
+      "status": "completed",
+      "createdAt": "2026-10-13T08:36:41.863Z",
+      "updatedAt": "2026-10-13T08:36:41.863Z"
+    },
+    {
+      "id": "sess_1791880621738_07azx",
+      "userId": "guest",
+      "featureType": "decoder",
+      "inputTitle": "Photosynthesis",
+      "inputSummary": "Photosynthesis is the biological process by which plants, algae, and cyanobacteria convert light energy into chemical en",
+      "status": "completed",
+      "createdAt": "2026-10-13T08:37:01.738Z",
+      "updatedAt": "2026-10-13T08:37:01.738Z"
+    },
+    {
+      "id": "sess_1791880662878_wbfjg",
+      "userId": "guest",
+      "featureType": "decoder",
+      "inputTitle": "computer network",
+      "inputSummary": "A computer network is a collection of autonomous computing devices (nodes) interconnected by communication links to shar",
+      "status": "completed",
+      "createdAt": "2026-10-13T08:37:42.878Z",
+      "updatedAt": "2026-10-13T08:37:42.878Z"
+    },
+    {
+      "id": "sess_1791881019185_u05ky",
+      "userId": "guest",
+      "featureType": "decoder",
+      "inputTitle": "Quantum Entanglement",
+      "inputSummary": "Quantum Entanglement is a physical phenomenon that occurs when a group of particles are generated, interact, or share sp",
+      "status": "completed",
+      "createdAt": "2026-10-13T08:43:39.185Z",
+      "updatedAt": "2026-10-13T08:43:39.187Z"
+    },
+    {
+      "id": "sess_1791881169734_4zdv3",
+      "userId": "guest",
+      "featureType": "decoder",
+      "inputTitle": "Quantum Entanglement",
+      "inputSummary": "Quantum Entanglement is a phenomenon in quantum physics where pairs or groups of particles interact in ways such that th",
+      "status": "completed",
+      "createdAt": "2026-10-13T08:46:09.734Z",
+      "updatedAt": "2026-10-13T08:46:09.736Z"
+    },
+    {
+      "id": "sess_1791881378563_3iyx6",
+      "userId": "guest",
+      "featureType": "decoder",
+      "inputTitle": "Chlorophyll",
+      "inputSummary": "The word chlorophyll breaks down from two Greek roots: khloros (meaning pale green) and phyllon (meaning leaf).\nComplex ",
+      "status": "completed",
+      "createdAt": "2026-10-13T08:49:38.563Z",
+      "updatedAt": "2026-10-13T08:49:38.563Z"
+    },
+    {
+      "id": "sess_1791881422782_tkxqe",
+      "userId": "guest",
+      "featureType": "decoder",
+      "inputTitle": "Solar System",
+      "inputSummary": "The Solar System is a gravitationally bound planetary system comprising a central G-type main-sequence star—the Sun, and",
+      "status": "completed",
+      "createdAt": "2026-10-13T08:50:22.782Z",
+      "updatedAt": "2026-10-13T08:50:22.782Z"
+    },
+    {
+      "id": "sess_1791882821459_2ew51",
+      "userId": "guest",
+      "featureType": "decoder",
+      "inputTitle": "The Solar System",
+      "inputSummary": "The Solar System is a gravitationally bound planetary system comprising a central G-type main-sequence star-the Sun, and",
+      "status": "completed",
+      "createdAt": "2026-10-13T09:13:41.459Z",
+      "updatedAt": "2026-10-13T09:13:41.461Z"
+    },
+    {
+      "id": "sess_1791882875493_uisht",
+      "userId": "guest",
+      "featureType": "decoder",
+      "inputTitle": "Solar System",
+      "inputSummary": "The Solar System is a gravitationally bound planetary system comprising a central G-type main-sequence star—the Sun, and",
+      "status": "completed",
+      "createdAt": "2026-10-13T09:14:35.493Z",
+      "updatedAt": "2026-10-13T09:14:35.494Z"
+    },
+    {
+      "id": "sess_1791882935850_6gz5d",
+      "userId": "guest",
+      "featureType": "decoder",
+      "inputTitle": "Scheduling",
+      "inputSummary": "Scheduling refers to the systematic allocation of resources, time, and tasks to achieve specific goals efficiently while",
+      "status": "completed",
+      "createdAt": "2026-10-13T09:15:35.850Z",
+      "updatedAt": "2026-10-13T09:15:35.850Z"
+    },
+    {
+      "id": "sess_1791883898774_4s5sq",
+      "userId": "guest",
+      "featureType": "decoder",
+      "inputTitle": "Solar System",
+      "inputSummary": "The Solar System is a gravitationally bound planetary system comprising a central star, the Sun, and all celestial bodie",
+      "status": "completed",
+      "createdAt": "2026-10-13T09:31:38.774Z",
+      "updatedAt": "2026-10-13T09:31:38.774Z"
+    },
+    {
+      "id": "sess_1791883967185_7vcci",
+      "userId": "guest",
+      "featureType": "decoder",
+      "inputTitle": "Solar System",
+      "inputSummary": "The Solar System is a gravitationally bound planetary system comprising a central star, the Sun, and all celestial bodie",
+      "status": "completed",
+      "createdAt": "2026-10-13T09:32:47.185Z",
+      "updatedAt": "2026-10-13T09:32:47.188Z"
+    },
+    {
+      "id": "sess_1791884797425_qnfz8",
+      "userId": "guest",
+      "featureType": "decoder",
+      "inputTitle": "Solar System",
+      "inputSummary": "The Solar System is a gravitationally bound system comprising the Sun and all objects that orbit it. It formed 4.6 billi",
+      "status": "completed",
+      "createdAt": "2026-10-13T09:46:37.425Z",
+      "updatedAt": "2026-10-13T09:46:37.427Z"
+    },
+    {
+      "id": "sess_1791884834950_igurw",
+      "userId": "guest",
+      "featureType": "decoder",
+      "inputTitle": "Solar System",
+      "inputSummary": "The Solar System is a gravitationally bound system comprising the Sun and all objects that orbit it.",
+      "status": "completed",
+      "createdAt": "2026-10-13T09:47:14.950Z",
+      "updatedAt": "2026-10-13T09:47:14.950Z"
+    },
+    {
+      "id": "sess_1791885118135_7n4si",
+      "userId": "guest",
+      "featureType": "decoder",
+      "inputTitle": "Solar System",
+      "inputSummary": "The Solar System is a gravitationally bound system comprising the Sun and all objects that orbit it. It formed 4.6 billi",
+      "status": "completed",
+      "createdAt": "2026-10-13T09:51:58.135Z",
+      "updatedAt": "2026-10-13T09:51:58.152Z"
+    },
+    {
+      "id": "sess_1791885164429_cf2f1",
+      "userId": "guest",
+      "featureType": "decoder",
+      "inputTitle": "The Solar System",
+      "inputSummary": "The Solar System is a gravitationally bound system comprising the Sun and all objects that orbit it. It formed 4.6 billi",
+      "status": "completed",
+      "createdAt": "2026-10-13T09:52:44.429Z",
+      "updatedAt": "2026-10-13T09:52:44.432Z"
+    },
+    {
+      "id": "sess_1791885199268_fmnry",
+      "userId": "guest",
+      "featureType": "decoder",
+      "inputTitle": "Solar System",
+      "inputSummary": "The Solar System is a gravitationally bound system comprising the Sun and all objects that orbit it. It formed 4.6 billi",
+      "status": "completed",
+      "createdAt": "2026-10-13T09:53:19.268Z",
+      "updatedAt": "2026-10-13T09:53:19.270Z"
+    },
+    {
+      "id": "sess_1791885237283_4ph8z",
+      "userId": "guest",
+      "featureType": "decoder",
+      "inputTitle": "The Solar System",
+      "inputSummary": "The Solar System is a gravitationally bound system comprising the Sun and all objects that orbit it. It formed 4.6 billi",
+      "status": "completed",
+      "createdAt": "2026-10-13T09:53:57.283Z",
+      "updatedAt": "2026-10-13T09:53:57.284Z"
+    },
+    {
+      "id": "sess_1791886608461_zzhwq",
+      "userId": "guest",
+      "featureType": "decoder",
+      "inputTitle": "Generative artificial intelligence (GenA",
+      "inputSummary": "Generative artificial intelligence (GenAI) is a branch of machine learning that models the underlying probability distri",
+      "status": "completed",
+      "createdAt": "2026-10-13T10:16:48.461Z",
+      "updatedAt": "2026-10-13T10:16:48.461Z"
+    },
+    {
+      "id": "sess_1791886627548_5vtet",
+      "userId": "guest",
+      "featureType": "focus_cards",
+      "inputTitle": "Understanding Generative AI (GenAI)",
+      "inputSummary": "Generative artificial intelligence (GenAI) is a branch of machine learning that models the underlying probability distri",
+      "status": "completed",
+      "createdAt": "2026-10-13T10:17:07.548Z",
+      "updatedAt": "2026-10-13T10:17:07.548Z"
+    },
+    {
+      "id": "sess_1791902100676_5iw01",
+      "userId": "guest",
+      "featureType": "task_breakdown",
+      "inputTitle": "Generative AI",
+      "inputSummary": "4 tasks estimated at 170 mins",
+      "status": "completed",
+      "createdAt": "2026-10-13T14:35:00.676Z",
+      "updatedAt": "2026-10-13T14:35:00.676Z"
+    },
+    {
+      "id": "sess_1791902193050_iqdv4",
+      "userId": "guest",
+      "featureType": "decoder",
+      "inputTitle": "Database Normalization",
+      "inputSummary": "Database normalization is the process of organizing tables and columns in a database to reduce data redundancy (repeatin",
+      "status": "completed",
+      "createdAt": "2026-10-13T14:36:33.050Z",
+      "updatedAt": "2026-10-13T14:36:33.050Z"
+    },
+    {
+      "id": "sess_1791902302466_9i9f4",
+      "userId": "guest",
+      "featureType": "decoder",
+      "inputTitle": "ACID Properties for Reliable Database Transactions",
+      "inputSummary": "In SQL database management systems, ACID is an acronym that defines the four core properties required to guarantee that ",
+      "status": "completed",
+      "createdAt": "2026-10-13T14:38:22.466Z",
+      "updatedAt": "2026-10-13T14:38:22.466Z"
+    },
+    {
+      "id": "sess_1791902340380_ssyka",
+      "userId": "guest",
+      "featureType": "focus_cards",
+      "inputTitle": "Understanding ACID Properties in SQL Databases",
+      "inputSummary": "In SQL database management systems, ACID is an acronym that defines the four core properties required to guarantee that ",
+      "status": "completed",
+      "createdAt": "2026-10-13T14:39:00.380Z",
+      "updatedAt": "2026-10-13T14:39:00.380Z"
+    },
+    {
+      "id": "sess_1791902371385_g17r8",
+      "userId": "guest",
+      "featureType": "task_breakdown",
+      "inputTitle": "ACID properties",
+      "inputSummary": "4 tasks estimated at 170 mins",
+      "status": "completed",
+      "createdAt": "2026-10-13T14:39:31.385Z",
+      "updatedAt": "2026-10-13T14:39:31.385Z"
+    },
+    {
+      "id": "sess_1791902448060_o00fi",
+      "userId": "usr_1791902430793_w68lu",
+      "featureType": "focus_cards",
+      "inputTitle": "Understanding ACID Properties in SQL Databases",
+      "inputSummary": "In SQL database management systems, ACID is an acronym that defines the four core properties required to guarantee that ",
+      "status": "completed",
+      "createdAt": "2026-10-13T14:40:48.061Z",
+      "updatedAt": "2026-10-13T14:40:48.061Z"
+    },
+    {
+      "id": "sess_1791904205972_eawgs",
+      "userId": "guest",
+      "featureType": "decoder",
+      "inputTitle": "Deep Learning Explained",
+      "inputSummary": "Deep learning is a subset of machine learning based on artificial neural networks with representation learning.",
+      "status": "completed",
+      "createdAt": "2026-10-13T15:10:05.972Z",
+      "updatedAt": "2026-10-13T15:10:05.972Z"
+    },
+    {
+      "id": "sess_1791904207862_ka6c0",
+      "userId": "guest",
+      "featureType": "decoder",
+      "inputTitle": "Deep Learning",
+      "inputSummary": "Deep learning is a subset of machine learning based on artificial neural networks with representation learning.",
+      "status": "completed",
+      "createdAt": "2026-10-13T15:10:07.862Z",
+      "updatedAt": "2026-10-13T15:10:07.862Z"
+    }
+  ],
+  "explanations": [
+    {
+      "id": "exp_1791872026756_pg8pm",
+      "userId": "guest",
+      "sessionId": "sess_1791872026755_m3mbc",
+      "topic": "Application Programming Interface",
+      "mode": "decoder",
+      "simpleExplanation": "At its core, Application Programming Interface is about taking a complex set of operations or rules and making them work smoothly together to achieve a specific outcome without unnecessary confusion.",
+      "analogy": "Imagine a busy restaurant kitchen: instead of every customer shouting orders directly at the chefs, the waiter acts as the organized interface who collects requests, delivers them in order, and brings back the prepared dish. That is exactly how Application Programming Interface coordinates work.",
+      "keyTerms": [
+        {
+          "term": "Core Concept",
+          "definition": "The central principle or structure behind Application Programming Interface."
+        },
+        {
+          "term": "Protocol / Flow",
+          "definition": "The established sequence of steps that ensures predictability and correctness."
+        },
+        {
+          "term": "Abstraction",
+          "definition": "Hiding complex internal mechanisms while exposing an intuitive, easy-to-use surface."
+        }
+      ],
+      "takeaways": [
+        "Application Programming Interface reduces cognitive and operational overhead through structured abstraction.",
+        "It standardizes communication between different parts of a system or study area.",
+        "Mastering this concept unlocks higher-level reasoning and problem-solving skills.",
+        "Small errors in fundamentals can ripple outward, so solid foundation is essential."
+      ],
+      "example": "In everyday computer systems or science experiments, when you invoke Application Programming Interface, underlying low-level routines execute behind the scenes while you observe clean, predictable output.",
+      "selfCheck": {
+        "question": "Why is the concept of Application Programming Interface considered foundational rather than just an isolated trick?",
+        "hint": "Think about how it separates what is requested from how it gets carried out internally."
+      },
+      "createdAt": "2026-10-13T06:13:46.756Z"
+    },
+    {
+      "id": "exp_1791872680137_n3irc",
+      "userId": "guest",
+      "sessionId": "sess_1791872680134_g2d6o",
+      "topic": "Photosynthesis",
+      "mode": "decoder",
+      "simpleExplanation": "At its core, Photosynthesis is about taking a complex set of operations or rules and making them work smoothly together to achieve a specific outcome without unnecessary confusion.",
+      "analogy": "Imagine a busy restaurant kitchen: instead of every customer shouting orders directly at the chefs, the waiter acts as the organized interface who collects requests, delivers them in order, and brings back the prepared dish. That is exactly how Photosynthesis coordinates work.",
+      "keyTerms": [
+        {
+          "term": "Core Concept",
+          "definition": "The central principle or structure behind Photosynthesis."
+        },
+        {
+          "term": "Protocol / Flow",
+          "definition": "The established sequence of steps that ensures predictability and correctness."
+        },
+        {
+          "term": "Abstraction",
+          "definition": "Hiding complex internal mechanisms while exposing an intuitive, easy-to-use surface."
+        }
+      ],
+      "takeaways": [
+        "Photosynthesis reduces cognitive and operational overhead through structured abstraction.",
+        "It standardizes communication between different parts of a system or study area.",
+        "Mastering this concept unlocks higher-level reasoning and problem-solving skills.",
+        "Small errors in fundamentals can ripple outward, so solid foundation is essential."
+      ],
+      "example": "In everyday computer systems or science experiments, when you invoke Photosynthesis, underlying low-level routines execute behind the scenes while you observe clean, predictable output.",
+      "selfCheck": {
+        "question": "Why is the concept of Photosynthesis considered foundational rather than just an isolated trick?",
+        "hint": "Think about how it separates what is requested from how it gets carried out internally."
+      },
+      "createdAt": "2026-10-13T06:24:40.137Z"
+    },
+    {
+      "id": "exp_1791872691836_babeq",
+      "userId": "guest",
+      "sessionId": "sess_1791872691835_xvqec",
+      "topic": "Photosynthesis is an endothermic biochemical conve",
+      "mode": "decoder",
+      "simpleExplanation": "At its core, Photosynthesis is an endothermic biochemical conversion where photoautotrophic organisms transform e is about taking a complex set of operations or rules and making them work smoothly together to achieve a specific outcome without unnecessary confusion.",
+      "analogy": "Imagine a busy restaurant kitchen: instead of every customer shouting orders directly at the chefs, the waiter acts as the organized interface who collects requests, delivers them in order, and brings back the prepared dish. That is exactly how Photosynthesis is an endothermic biochemical conversion where photoautotrophic organisms transform e coordinates work.",
+      "keyTerms": [
+        {
+          "term": "Core Concept",
+          "definition": "The central principle or structure behind Photosynthesis is an endothermic biochemical conversion where photoautotrophic organisms transform e."
+        },
+        {
+          "term": "Protocol / Flow",
+          "definition": "The established sequence of steps that ensures predictability and correctness."
+        },
+        {
+          "term": "Abstraction",
+          "definition": "Hiding complex internal mechanisms while exposing an intuitive, easy-to-use surface."
+        }
+      ],
+      "takeaways": [
+        "Photosynthesis is an endothermic biochemical conversion where photoautotrophic organisms transform e reduces cognitive and operational overhead through structured abstraction.",
+        "It standardizes communication between different parts of a system or study area.",
+        "Mastering this concept unlocks higher-level reasoning and problem-solving skills.",
+        "Small errors in fundamentals can ripple outward, so solid foundation is essential."
+      ],
+      "example": "In everyday computer systems or science experiments, when you invoke Photosynthesis is an endothermic biochemical conversion where photoautotrophic organisms transform e, underlying low-level routines execute behind the scenes while you observe clean, predictable output.",
+      "selfCheck": {
+        "question": "Why is the concept of Photosynthesis is an endothermic biochemical conversion where photoautotrophic organisms transform e considered foundational rather than just an isolated trick?",
+        "hint": "Think about how it separates what is requested from how it gets carried out internally."
+      },
+      "createdAt": "2026-10-13T06:24:51.836Z"
+    },
+    {
+      "id": "exp_1791872727510_i7q22",
+      "userId": "guest",
+      "sessionId": "sess_1791872727509_0z98v",
+      "topic": "The word chlorophyll breaks down from two Greek ro",
+      "mode": "decoder",
+      "simpleExplanation": "At its core, The word chlorophyll breaks down from two Greek roots: khloros (meaning pale green) and phyllon (mea is about taking a complex set of operations or rules and making them work smoothly together to achieve a specific outcome without unnecessary confusion.",
+      "analogy": "Imagine a busy restaurant kitchen: instead of every customer shouting orders directly at the chefs, the waiter acts as the organized interface who collects requests, delivers them in order, and brings back the prepared dish. That is exactly how The word chlorophyll breaks down from two Greek roots: khloros (meaning pale green) and phyllon (mea coordinates work.",
+      "keyTerms": [
+        {
+          "term": "Core Concept",
+          "definition": "The central principle or structure behind The word chlorophyll breaks down from two Greek roots: khloros (meaning pale green) and phyllon (mea."
+        },
+        {
+          "term": "Protocol / Flow",
+          "definition": "The established sequence of steps that ensures predictability and correctness."
+        },
+        {
+          "term": "Abstraction",
+          "definition": "Hiding complex internal mechanisms while exposing an intuitive, easy-to-use surface."
+        }
+      ],
+      "takeaways": [
+        "The word chlorophyll breaks down from two Greek roots: khloros (meaning pale green) and phyllon (mea reduces cognitive and operational overhead through structured abstraction.",
+        "It standardizes communication between different parts of a system or study area.",
+        "Mastering this concept unlocks higher-level reasoning and problem-solving skills.",
+        "Small errors in fundamentals can ripple outward, so solid foundation is essential."
+      ],
+      "example": "In everyday computer systems or science experiments, when you invoke The word chlorophyll breaks down from two Greek roots: khloros (meaning pale green) and phyllon (mea, underlying low-level routines execute behind the scenes while you observe clean, predictable output.",
+      "selfCheck": {
+        "question": "Why is the concept of The word chlorophyll breaks down from two Greek roots: khloros (meaning pale green) and phyllon (mea considered foundational rather than just an isolated trick?",
+        "hint": "Think about how it separates what is requested from how it gets carried out internally."
+      },
+      "createdAt": "2026-10-13T06:25:27.510Z"
+    },
+    {
+      "id": "exp_1791872800055_kludr",
+      "userId": "guest",
+      "sessionId": "sess_1791872800054_lam11",
+      "topic": "The word chlorophyll breaks down from two Greek ro",
+      "mode": "decoder",
+      "simpleExplanation": "At its core, The word chlorophyll breaks down from two Greek roots: khloros (meaning pale green) and phyllon (mea is about taking a complex set of operations or rules and making them work smoothly together to achieve a specific outcome without unnecessary confusion.",
+      "analogy": "Imagine a busy restaurant kitchen: instead of every customer shouting orders directly at the chefs, the waiter acts as the organized interface who collects requests, delivers them in order, and brings back the prepared dish. That is exactly how The word chlorophyll breaks down from two Greek roots: khloros (meaning pale green) and phyllon (mea coordinates work.",
+      "keyTerms": [
+        {
+          "term": "Core Concept",
+          "definition": "The central principle or structure behind The word chlorophyll breaks down from two Greek roots: khloros (meaning pale green) and phyllon (mea."
+        },
+        {
+          "term": "Protocol / Flow",
+          "definition": "The established sequence of steps that ensures predictability and correctness."
+        },
+        {
+          "term": "Abstraction",
+          "definition": "Hiding complex internal mechanisms while exposing an intuitive, easy-to-use surface."
+        }
+      ],
+      "takeaways": [
+        "The word chlorophyll breaks down from two Greek roots: khloros (meaning pale green) and phyllon (mea reduces cognitive and operational overhead through structured abstraction.",
+        "It standardizes communication between different parts of a system or study area.",
+        "Mastering this concept unlocks higher-level reasoning and problem-solving skills.",
+        "Small errors in fundamentals can ripple outward, so solid foundation is essential."
+      ],
+      "example": "In everyday computer systems or science experiments, when you invoke The word chlorophyll breaks down from two Greek roots: khloros (meaning pale green) and phyllon (mea, underlying low-level routines execute behind the scenes while you observe clean, predictable output.",
+      "selfCheck": {
+        "question": "Why is the concept of The word chlorophyll breaks down from two Greek roots: khloros (meaning pale green) and phyllon (mea considered foundational rather than just an isolated trick?",
+        "hint": "Think about how it separates what is requested from how it gets carried out internally."
+      },
+      "createdAt": "2026-10-13T06:26:40.055Z"
+    },
+    {
+      "id": "exp_1791876143764_jumjh",
+      "userId": "guest",
+      "sessionId": "sess_1791876143762_idswq",
+      "topic": "chlorophyll",
+      "mode": "decoder",
+      "simpleExplanation": "Chlorophyll is a green biological pigment found inside chloroplasts of plants, algae, and cyanobacteria. Its primary role is absorbing sunlight—specifically blue and red wavelengths—to drive photosynthesis, while reflecting green light, which makes plants look green.",
+      "analogy": "Think of chlorophyll as biological solar panels installed on a plant leaf. Just as solar panels capture light energy from the sun and convert it into electricity, chlorophyll captures light photons and converts that energy into chemical energy stored in sugars.",
+      "keyTerms": [
+        {
+          "term": "Chloroplast",
+          "definition": "The cellular organelle in plant and algal cells where photosynthesis takes place."
+        },
+        {
+          "term": "Thylakoid Membrane",
+          "definition": "The microscopic internal membrane structure inside chloroplasts where chlorophyll pigments are embedded."
+        },
+        {
+          "term": "Absorption Spectrum",
+          "definition": "The specific wavelengths of electromagnetic radiation (light) that a pigment absorbs most effectively (for chlorophyll: blue ~430nm and red ~660nm)."
+        },
+        {
+          "term": "Chlorophyll-a & b",
+          "definition": "The two main types of chlorophyll in plants: chlorophyll-a is the primary electron donor in the light reaction; chlorophyll-b acts as an accessory antenna pigment."
+        }
+      ],
+      "takeaways": [
+        "Chlorophyll is the essential photosynthetic pigment that traps light energy in plants, algae, and cyanobacteria.",
+        "It absorbs blue and red wavelengths of light while reflecting green light, giving foliage its green color.",
+        "It contains a magnesium ion (Mg2+) held within a porphyrin ring structure responsible for electron excitation.",
+        "Without chlorophyll, oxygenic photosynthesis cannot initiate the light-dependent reactions that produce ATP and NADPH."
+      ],
+      "example": "In autumn, deciduous trees break down chlorophyll to reabsorb its nutrients. As the dominant green chlorophyll fades away, underlying accessory pigments like orange carotenoids and yellow xanthophylls become visible.",
+      "selfCheck": {
+        "question": "Why do plant leaves appear green to the human eye, even though chlorophyll absorbs light for photosynthesis?",
+        "hint": "Consider which wavelengths of the visible spectrum chlorophyll absorbs versus which wavelengths it reflects back to your eyes."
+      },
+      "createdAt": "2026-10-13T07:22:23.764Z"
+    },
+    {
+      "id": "exp_1791877662782_8jbny",
+      "userId": "guest",
+      "sessionId": "sess_1791877662769_izmjb",
+      "topic": "Photosynthesis is the biological process by which ",
+      "mode": "decoder",
+      "simpleExplanation": "Chlorophyll is a green biological pigment found inside chloroplasts of plants, algae, and cyanobacteria. Its primary role is absorbing sunlight—specifically blue and red wavelengths—to drive photosynthesis, while reflecting green light, which makes plants look green.",
+      "analogy": "Think of chlorophyll as biological solar panels installed on a plant leaf. Just as solar panels capture light energy from the sun and convert it into electricity, chlorophyll captures light photons and converts that energy into chemical energy stored in sugars.",
+      "keyTerms": [
+        {
+          "term": "Chloroplast",
+          "definition": "The cellular organelle in plant and algal cells where photosynthesis takes place."
+        },
+        {
+          "term": "Thylakoid Membrane",
+          "definition": "The microscopic internal membrane structure inside chloroplasts where chlorophyll pigments are embedded."
+        },
+        {
+          "term": "Absorption Spectrum",
+          "definition": "The specific wavelengths of electromagnetic radiation (light) that a pigment absorbs most effectively (for chlorophyll: blue ~430nm and red ~660nm)."
+        },
+        {
+          "term": "Chlorophyll-a & b",
+          "definition": "The two main types of chlorophyll in plants: chlorophyll-a is the primary electron donor in the light reaction; chlorophyll-b acts as an accessory antenna pigment."
+        }
+      ],
+      "takeaways": [
+        "Chlorophyll is the essential photosynthetic pigment that traps light energy in plants, algae, and cyanobacteria.",
+        "It absorbs blue and red wavelengths of light while reflecting green light, giving foliage its green color.",
+        "It contains a magnesium ion (Mg2+) held within a porphyrin ring structure responsible for electron excitation.",
+        "Without chlorophyll, oxygenic photosynthesis cannot initiate the light-dependent reactions that produce ATP and NADPH."
+      ],
+      "example": "In autumn, deciduous trees break down chlorophyll to reabsorb its nutrients. As the dominant green chlorophyll fades away, underlying accessory pigments like orange carotenoids and yellow xanthophylls become visible.",
+      "selfCheck": {
+        "question": "Why do plant leaves appear green to the human eye, even though chlorophyll absorbs light for photosynthesis?",
+        "hint": "Consider which wavelengths of the visible spectrum chlorophyll absorbs versus which wavelengths it reflects back to your eyes."
+      },
+      "createdAt": "2026-10-13T07:47:42.782Z"
+    },
+    {
+      "id": "exp_1791877669102_kvmuy",
+      "userId": "guest",
+      "sessionId": "sess_1791877669094_r9rlk",
+      "topic": "Photosynthesis is the biological process by which ",
+      "mode": "decoder",
+      "simpleExplanation": "Chlorophyll is a green biological pigment found inside chloroplasts of plants, algae, and cyanobacteria. Its primary role is absorbing sunlight—specifically blue and red wavelengths—to drive photosynthesis, while reflecting green light, which makes plants look green.",
+      "analogy": "Think of chlorophyll as biological solar panels installed on a plant leaf. Just as solar panels capture light energy from the sun and convert it into electricity, chlorophyll captures light photons and converts that energy into chemical energy stored in sugars.",
+      "keyTerms": [
+        {
+          "term": "Chloroplast",
+          "definition": "The cellular organelle in plant and algal cells where photosynthesis takes place."
+        },
+        {
+          "term": "Thylakoid Membrane",
+          "definition": "The microscopic internal membrane structure inside chloroplasts where chlorophyll pigments are embedded."
+        },
+        {
+          "term": "Absorption Spectrum",
+          "definition": "The specific wavelengths of electromagnetic radiation (light) that a pigment absorbs most effectively (for chlorophyll: blue ~430nm and red ~660nm)."
+        },
+        {
+          "term": "Chlorophyll-a & b",
+          "definition": "The two main types of chlorophyll in plants: chlorophyll-a is the primary electron donor in the light reaction; chlorophyll-b acts as an accessory antenna pigment."
+        }
+      ],
+      "takeaways": [
+        "Chlorophyll is the essential photosynthetic pigment that traps light energy in plants, algae, and cyanobacteria.",
+        "It absorbs blue and red wavelengths of light while reflecting green light, giving foliage its green color.",
+        "It contains a magnesium ion (Mg2+) held within a porphyrin ring structure responsible for electron excitation.",
+        "Without chlorophyll, oxygenic photosynthesis cannot initiate the light-dependent reactions that produce ATP and NADPH."
+      ],
+      "example": "In autumn, deciduous trees break down chlorophyll to reabsorb its nutrients. As the dominant green chlorophyll fades away, underlying accessory pigments like orange carotenoids and yellow xanthophylls become visible.",
+      "selfCheck": {
+        "question": "Why do plant leaves appear green to the human eye, even though chlorophyll absorbs light for photosynthesis?",
+        "hint": "Consider which wavelengths of the visible spectrum chlorophyll absorbs versus which wavelengths it reflects back to your eyes."
+      },
+      "createdAt": "2026-10-13T07:47:49.102Z"
+    },
+    {
+      "id": "exp_1791878084163_x3z8m",
+      "userId": "guest",
+      "sessionId": "sess_1791878084161_qj2m5",
+      "topic": "photosynthesis",
+      "mode": "decoder",
+      "simpleExplanation": "Photosynthesis is the biological process by which plants, algae, and certain bacteria convert light energy from the sun into chemical energy stored in glucose sugars, using water and carbon dioxide and releasing oxygen as a byproduct.",
+      "analogy": "Imagine a solar-powered bakery inside a leaf. Sunlight is the electricity that powers the ovens. Carbon dioxide from the air and water from the soil are the raw flour and water. The bakery turns them into sugar loaves (glucose) to feed the plant, and vents clean oxygen out the window as a pleasant byproduct.",
+      "keyTerms": [
+        {
+          "term": "Light-Dependent Reactions",
+          "definition": "The first stage occurring in the thylakoid membranes where light energy splits water and produces ATP and NADPH."
+        },
+        {
+          "term": "Calvin Cycle (Light-Independent)",
+          "definition": "The second stage occurring in the stroma where ATP and NADPH power the fixation of CO2 into glucose sugars."
+        },
+        {
+          "term": "Stomata",
+          "definition": "Microscopic pores on leaf surfaces that open and close to exchange carbon dioxide and oxygen gas."
+        },
+        {
+          "term": "RuBisCO",
+          "definition": "The primary enzyme responsible for fixing carbon dioxide into organic molecules during the Calvin cycle."
+        }
+      ],
+      "takeaways": [
+        "Overall chemical formula: 6 CO2 + 6 H2O + light energy -> C6H12O6 + 6 O2.",
+        "Occurs in two interconnected stages: Light-Dependent Reactions (thylakoids) and Calvin Cycle (stroma).",
+        "Water molecules are split in photolysis to provide replacement electrons, releasing breathable oxygen gas.",
+        "It forms the energetic foundation for nearly all aerobic life and food chains on Earth."
+      ],
+      "example": "A single mature oak tree can produce enough oxygen through photosynthesis in one season to support the breathing needs of two humans for a year.",
+      "selfCheck": {
+        "question": "Where does the oxygen released during photosynthesis come from: carbon dioxide (CO2) or water (H2O)?",
+        "hint": "Think about the photolysis reaction that replenishes electrons in Photosystem II."
+      },
+      "createdAt": "2026-10-13T07:54:44.163Z"
+    },
+    {
+      "id": "exp_1791878108743_hyow8",
+      "userId": "guest",
+      "sessionId": "sess_1791878108741_4l8km",
+      "topic": "photosynthesis",
+      "mode": "decoder",
+      "simpleExplanation": "Photosynthesis is the biological process by which plants, algae, and certain bacteria convert light energy from the sun into chemical energy stored in glucose sugars, using water and carbon dioxide and releasing oxygen as a byproduct.",
+      "analogy": "Imagine a solar-powered bakery inside a leaf. Sunlight is the electricity that powers the ovens. Carbon dioxide from the air and water from the soil are the raw flour and water. The bakery turns them into sugar loaves (glucose) to feed the plant, and vents clean oxygen out the window as a pleasant byproduct.",
+      "keyTerms": [
+        {
+          "term": "Light-Dependent Reactions",
+          "definition": "The first stage occurring in the thylakoid membranes where light energy splits water and produces ATP and NADPH."
+        },
+        {
+          "term": "Calvin Cycle (Light-Independent)",
+          "definition": "The second stage occurring in the stroma where ATP and NADPH power the fixation of CO2 into glucose sugars."
+        },
+        {
+          "term": "Stomata",
+          "definition": "Microscopic pores on leaf surfaces that open and close to exchange carbon dioxide and oxygen gas."
+        },
+        {
+          "term": "RuBisCO",
+          "definition": "The primary enzyme responsible for fixing carbon dioxide into organic molecules during the Calvin cycle."
+        }
+      ],
+      "takeaways": [
+        "Overall chemical formula: 6 CO2 + 6 H2O + light energy -> C6H12O6 + 6 O2.",
+        "Occurs in two interconnected stages: Light-Dependent Reactions (thylakoids) and Calvin Cycle (stroma).",
+        "Water molecules are split in photolysis to provide replacement electrons, releasing breathable oxygen gas.",
+        "It forms the energetic foundation for nearly all aerobic life and food chains on Earth."
+      ],
+      "example": "A single mature oak tree can produce enough oxygen through photosynthesis in one season to support the breathing needs of two humans for a year.",
+      "selfCheck": {
+        "question": "Where does the oxygen released during photosynthesis come from: carbon dioxide (CO2) or water (H2O)?",
+        "hint": "Think about the photolysis reaction that replenishes electrons in Photosystem II."
+      },
+      "createdAt": "2026-10-13T07:55:08.743Z"
+    },
+    {
+      "id": "exp_1791878937470_w7rp9",
+      "userId": "guest",
+      "sessionId": "sess_1791878937468_qk0gr",
+      "topic": "Photosynthesis is the biological process by which ",
+      "mode": "decoder",
+      "simpleExplanation": "Photosynthesis is the biological process by which plants, algae, and cyanobacteria convert light energy into chemical energy.",
+      "analogy": "Think of this concept as a layered system where each part builds on the previous one — just like chapters in a textbook, each section of \"this topic\" connects to the next.",
+      "keyTerms": [
+        {
+          "term": "Light",
+          "definition": "Key term appearing frequently in the source material."
+        },
+        {
+          "term": "Photosynthesis",
+          "definition": "Key term appearing frequently in the source material."
+        }
+      ],
+      "takeaways": [
+        "Photosynthesis is the biological process by which plants, algae, and cyanobacteria convert light energy into chemical energy.",
+        "Reactants are carbon dioxide, water, and sunlight.",
+        "Products are glucose and oxygen.",
+        "Light-Dependent Reactions occur in thylakoid membranes."
+      ],
+      "example": "Apply the ideas in this passage by identifying a real-world situation where this concept plays a direct role.",
+      "selfCheck": {
+        "question": "What is the single most important idea in the passage about this topic?",
+        "hint": "Re-read the first and last sentence of each section in the passage."
+      },
+      "createdAt": "2026-10-13T08:08:57.470Z"
+    },
+    {
+      "id": "exp_1791878999110_cxpz4",
+      "userId": "guest",
+      "sessionId": "sess_1791878999103_5wwc1",
+      "topic": "Photosynthesis is the biological process by which ",
+      "mode": "decoder",
+      "simpleExplanation": "Photosynthesis is the biological process by which plants, algae, and cyanobacteria convert light energy into chemical energy to fuel their metabolism.",
+      "analogy": "Think of this concept as a layered system where each part builds on the previous one — just like chapters in a textbook, each section of \"this topic\" connects to the next.",
+      "keyTerms": [
+        {
+          "term": "Reactants",
+          "definition": "Carbon dioxide ([equation]), water ([equation]), and sunlight"
+        },
+        {
+          "term": "Products",
+          "definition": "Glucose ([equation]) and oxygen ([equation])"
+        }
+      ],
+      "takeaways": [
+        "Equation: \\(6\\text{CO}_2 + 6\\text{H}_2\\text{O} + \\text{Light Energy} \\rightarrow \\text{C}_6\\text{H}_{12}\\text{O}_6 + 6\\text{O}_2\\)",
+        "Reactants: Carbon dioxide (\\(\\text{CO}_{2}\\)), water (\\(\\text{H}_2\\text{O}\\)), and sunlight",
+        "Products: Glucose (\\(\\text{C}_6\\text{H}_{12}\\text{O}_6\\)) and oxygen (\\(\\text{O}_{2}\\))",
+        "Light-Dependent Reactions: Occur in the thylakoid membranes of the chloroplasts. Chlorophyll absorbs sunlight to split water molecules, releasing oxygen and generating energy carriers (ATP and NADPH).",
+        "Light-Independent Reactions (Calvin Cycle): Occur in the stroma of the chloroplasts. They use the ATP and NADPH produced in the first stage to fix carbon dioxide into sugars like glucose."
+      ],
+      "example": "Apply the ideas in this passage by identifying a real-world situation where this concept plays a direct role.",
+      "selfCheck": {
+        "question": "What is the single most important idea in the passage about this topic?",
+        "hint": "Re-read the first and last sentence of each section in the passage."
+      },
+      "createdAt": "2026-10-13T08:09:59.110Z"
+    },
+    {
+      "id": "exp_1791879046531_2h7pd",
+      "userId": "guest",
+      "sessionId": "sess_1791879046527_msu1l",
+      "topic": "A deadlock in an operating system is a state where",
+      "mode": "decoder",
+      "simpleExplanation": "A deadlock in an operating system is a state where a set of processes are permanently blocked because each process holds a resource and waits for another resource held by another process in the set.",
+      "analogy": "Think of this concept as a layered system where each part builds on the previous one — just like chapters in a textbook, each section of \"this topic\" connects to the next.",
+      "keyTerms": [
+        {
+          "term": "Mutual Exclusion",
+          "definition": "Resources are non-shareable"
+        },
+        {
+          "term": "Hold and Wait",
+          "definition": "Processes hold resources while waiting for others"
+        }
+      ],
+      "takeaways": [
+        "Mutual Exclusion: Resources are non-shareable.",
+        "Hold and Wait: Processes hold resources while waiting for others.",
+        "No Preemption: Resources cannot be forcibly removed.",
+        "Circular Wait: A closed chain of waiting processes exists."
+      ],
+      "example": "Apply the ideas in this passage by identifying a real-world situation where this concept plays a direct role.",
+      "selfCheck": {
+        "question": "What is the single most important idea in the passage about this topic?",
+        "hint": "Re-read the first and last sentence of each section in the passage."
+      },
+      "createdAt": "2026-10-13T08:10:46.531Z"
+    },
+    {
+      "id": "exp_1791880483999_qo4yy",
+      "userId": "guest",
+      "sessionId": "sess_1791880483995_bsmkb",
+      "topic": "Operating System Deadlock",
+      "mode": "decoder",
+      "conceptTitle": "Operating System Deadlock",
+      "simpleExplanation": "An operating system deadlock is a freeze condition where two or more processes cannot execute because each holds a resource that the other process needs, forming a circular wait where nobody can proceed.",
+      "analogy": "Imagine a tight four-way traffic intersection with no traffic lights. Four cars arrive at the exact same moment from four directions and enter the center. Car A blocks Car B, Car B blocks Car C, Car C blocks Car D, and Car D blocks Car A. No car can move forward because each car waits for the car ahead to clear out first. The limitation of the analogy is that cars have human drivers who can reverse, whereas computer processes in deadlock have no awareness unless the OS intervenes.",
+      "keyTerms": [
+        {
+          "term": "Mutual Exclusion",
+          "definition": "At least one resource must be held in a non-shareable mode (only one process can use it at a time).",
+          "whyItMatters": "Essential condition; if resources could be shared freely, deadlocks would not occur."
+        },
+        {
+          "term": "Hold and Wait",
+          "definition": "A process holds at least one resource while waiting to acquire additional resources held by other processes.",
+          "whyItMatters": "Allows partial allocation to become a dependency bottleneck."
+        },
+        {
+          "term": "No Preemption",
+          "definition": "Resources cannot be forcibly taken away from a process; they can only be released voluntarily after the process finishes its task.",
+          "whyItMatters": "Prevents the operating system from unilaterally breaking the freeze without killing work."
+        },
+        {
+          "term": "Circular Wait",
+          "definition": "A closed chain of processes exists such that P0 waits for P1, P1 waits for P2, and Pn waits for P0.",
+          "whyItMatters": "The final, determining condition that turns contention into a permanent freeze."
+        }
+      ],
+      "takeaways": [
+        "A deadlock requires all four Coffman conditions to hold simultaneously: Mutual Exclusion, Hold and Wait, No Preemption, and Circular Wait.",
+        "Eliminating even one Coffman condition (such as enforcing resource ordering to prevent Circular Wait) guarantees deadlock prevention.",
+        "Operating systems handle deadlocks via Prevention (protocol rules), Avoidance (Banker's Algorithm), Detection and Recovery, or Ignorance (the Ostrich Algorithm)."
+      ],
+      "example": "Process 1 locks the Printer and requests the Scanner. Simultaneously, Process 2 locks the Scanner and requests the Printer. Neither process can release its resource until it finishes with both, freezing both tasks indefinitely.",
+      "selfCheck": {
+        "question": "If an OS prevents processes from requesting resources in arbitrary order and instead requires all resources to be requested in strictly ascending numbered order, which Coffman condition is eliminated?",
+        "hint": "Numbering resources eliminates closed cyclic chains."
+      },
+      "sources": [
+        {
+          "title": "Operating System Concepts (Silberschatz, Galvin, Gagne) - Deadlocks Chapter",
+          "url": "https://os-book.com/OS10/slide-dir/index.html",
+          "domain": "os-book.com",
+          "supportedClaims": "Four Coffman conditions, resource allocation graphs, and prevention strategies."
+        },
+        {
+          "title": "Deadlock in Operating System - GeeksforGeeks",
+          "url": "https://www.geeksforgeeks.org/introduction-of-deadlock-in-operating-system/",
+          "domain": "geeksforgeeks.org",
+          "supportedClaims": "Mutual exclusion, hold and wait, no preemption, circular wait explanations."
+        }
+      ],
+      "searchStatus": "search_unavailable",
+      "verificationNotes": "Verified against canonical operating system literature (Silberschatz et al.).",
+      "createdAt": "2026-10-13T08:34:43.999Z"
+    },
+    {
+      "id": "exp_1791880601867_p0k9y",
+      "userId": "guest",
+      "sessionId": "sess_1791880601863_vxejq",
+      "topic": "Operating System Deadlock",
+      "mode": "decoder",
+      "conceptTitle": "Operating System Deadlock",
+      "simpleExplanation": "An operating system deadlock is a freeze condition where two or more processes cannot execute because each holds a resource that the other process needs, forming a circular wait where nobody can proceed.",
+      "analogy": "Imagine a tight four-way traffic intersection with no traffic lights. Four cars arrive at the exact same moment from four directions and enter the center. Car A blocks Car B, Car B blocks Car C, Car C blocks Car D, and Car D blocks Car A. No car can move forward because each car waits for the car ahead to clear out first. The limitation of the analogy is that cars have human drivers who can reverse, whereas computer processes in deadlock have no awareness unless the OS intervenes.",
+      "keyTerms": [
+        {
+          "term": "Mutual Exclusion",
+          "definition": "At least one resource must be held in a non-shareable mode (only one process can use it at a time).",
+          "whyItMatters": "Essential condition; if resources could be shared freely, deadlocks would not occur."
+        },
+        {
+          "term": "Hold and Wait",
+          "definition": "A process holds at least one resource while waiting to acquire additional resources held by other processes.",
+          "whyItMatters": "Allows partial allocation to become a dependency bottleneck."
+        },
+        {
+          "term": "No Preemption",
+          "definition": "Resources cannot be forcibly taken away from a process; they can only be released voluntarily after the process finishes its task.",
+          "whyItMatters": "Prevents the operating system from unilaterally breaking the freeze without killing work."
+        },
+        {
+          "term": "Circular Wait",
+          "definition": "A closed chain of processes exists such that P0 waits for P1, P1 waits for P2, and Pn waits for P0.",
+          "whyItMatters": "The final, determining condition that turns contention into a permanent freeze."
+        }
+      ],
+      "takeaways": [
+        "A deadlock requires all four Coffman conditions to hold simultaneously: Mutual Exclusion, Hold and Wait, No Preemption, and Circular Wait.",
+        "Eliminating even one Coffman condition (such as enforcing resource ordering to prevent Circular Wait) guarantees deadlock prevention.",
+        "Operating systems handle deadlocks via Prevention (protocol rules), Avoidance (Banker's Algorithm), Detection and Recovery, or Ignorance (the Ostrich Algorithm)."
+      ],
+      "example": "Process 1 locks the Printer and requests the Scanner. Simultaneously, Process 2 locks the Scanner and requests the Printer. Neither process can release its resource until it finishes with both, freezing both tasks indefinitely.",
+      "selfCheck": {
+        "question": "If an OS prevents processes from requesting resources in arbitrary order and instead requires all resources to be requested in strictly ascending numbered order, which Coffman condition is eliminated?",
+        "hint": "Numbering resources eliminates closed cyclic chains."
+      },
+      "sources": [
+        {
+          "title": "Operating System Concepts (Silberschatz, Galvin, Gagne) - Deadlocks Chapter",
+          "url": "https://os-book.com/OS10/slide-dir/index.html",
+          "domain": "os-book.com",
+          "supportedClaims": "Four Coffman conditions, resource allocation graphs, and prevention strategies."
+        },
+        {
+          "title": "Deadlock in Operating System - GeeksforGeeks",
+          "url": "https://www.geeksforgeeks.org/introduction-of-deadlock-in-operating-system/",
+          "domain": "geeksforgeeks.org",
+          "supportedClaims": "Mutual exclusion, hold and wait, no preemption, circular wait explanations."
+        }
+      ],
+      "searchStatus": "search_unavailable",
+      "verificationNotes": "Verified against canonical operating system literature (Silberschatz et al.).",
+      "createdAt": "2026-10-13T08:36:41.867Z"
+    },
+    {
+      "id": "exp_1791880621742_sw2y7",
+      "userId": "guest",
+      "sessionId": "sess_1791880621738_07azx",
+      "topic": "Photosynthesis",
+      "mode": "decoder",
+      "conceptTitle": "Photosynthesis",
+      "simpleExplanation": "Photosynthesis is the biological process by which plants, algae, and certain bacteria convert light energy from the sun into chemical energy stored in glucose sugars, using water and carbon dioxide and releasing oxygen as a byproduct.",
+      "analogy": "Imagine a solar-powered bakery inside a leaf. Sunlight is the electricity that powers the ovens. Carbon dioxide from the air and water from the soil are the raw flour and water. The bakery turns them into sugar loaves (glucose) to feed the plant, and vents clean oxygen out the window as a pleasant byproduct.",
+      "keyTerms": [
+        {
+          "term": "Light-Dependent Reactions",
+          "definition": "The first stage occurring in the thylakoid membranes where light energy splits water and produces ATP and NADPH."
+        },
+        {
+          "term": "Calvin Cycle (Light-Independent)",
+          "definition": "The second stage occurring in the stroma where ATP and NADPH power the fixation of CO2 into glucose sugars."
+        },
+        {
+          "term": "Stomata",
+          "definition": "Microscopic pores on leaf surfaces that open and close to exchange carbon dioxide and oxygen gas."
+        },
+        {
+          "term": "RuBisCO",
+          "definition": "The primary enzyme responsible for fixing carbon dioxide into organic molecules during the Calvin cycle."
+        }
+      ],
+      "takeaways": [
+        "Overall chemical formula: 6 CO2 + 6 H2O + light energy -> C6H12O6 + 6 O2.",
+        "Occurs in two interconnected stages: Light-Dependent Reactions (thylakoids) and Calvin Cycle (stroma).",
+        "Water molecules are split in photolysis to provide replacement electrons, releasing breathable oxygen gas.",
+        "It forms the energetic foundation for nearly all aerobic life and food chains on Earth."
+      ],
+      "example": "A single mature oak tree can produce enough oxygen through photosynthesis in one season to support the breathing needs of two humans for a year.",
+      "selfCheck": {
+        "question": "Where does the oxygen released during photosynthesis come from: carbon dioxide (CO2) or water (H2O)?",
+        "hint": "Think about the photolysis reaction that replenishes electrons in Photosystem II."
+      },
+      "sources": [],
+      "searchStatus": "search_unavailable",
+      "verificationNotes": "Grounded in CogniPath Academic Knowledge Base. Web search API key unconfigured.",
+      "createdAt": "2026-10-13T08:37:01.742Z"
+    },
+    {
+      "id": "exp_1791880662881_hlma1",
+      "userId": "guest",
+      "sessionId": "sess_1791880662878_wbfjg",
+      "topic": "computer network",
+      "mode": "decoder",
+      "conceptTitle": "computer network",
+      "simpleExplanation": "A computer network is a collection of autonomous computing devices (nodes) interconnected by communication links to share data, hardware resources, and services.",
+      "analogy": "Think of this concept as a layered system where each part builds on the previous one — just like chapters in a textbook, each section of \"computer network\" connects to the next.",
+      "keyTerms": [
+        {
+          "term": "Network",
+          "definition": "Key term appearing frequently in the source material."
+        },
+        {
+          "term": "Devices",
+          "definition": "Key term appearing frequently in the source material."
+        }
+      ],
+      "takeaways": [
+        "PAN (Personal Area Network): Covers a tiny area (up to 10 meters) for personal devices like wireless earphones, smartwatches, or phones connected via Bluetooth.",
+        "LAN (Local Area Network): Connects computers within a single building, office, or home using Ethernet or Wi-Fi.",
+        "MAN (Metropolitan Area Network): Spans across an entire city or large campus to link multiple LANs.",
+        "WAN (Wide Area Network): Connects computers and networks across countries or globally, with the Internet being the largest example.",
+        "VPN (Virtual Private Network): Uses public lines with encryption to build a secure private network connection."
+      ],
+      "example": "Apply the ideas in this passage by identifying a real-world situation where computer network plays a direct role.",
+      "selfCheck": {
+        "question": "What is the single most important idea in the passage about computer network?",
+        "hint": "Re-read the first and last sentence of each section in the passage."
+      },
+      "sources": [],
+      "searchStatus": "search_unavailable",
+      "verificationNotes": "Generated via live AI without live web sources.",
+      "createdAt": "2026-10-13T08:37:42.881Z"
+    },
+    {
+      "id": "exp_1791881019190_xf209",
+      "userId": "guest",
+      "sessionId": "sess_1791881019185_u05ky",
+      "topic": "Quantum Entanglement",
+      "mode": "decoder",
+      "conceptTitle": "Quantum Entanglement",
+      "simpleExplanation": "At its heart, Quantum Entanglement is all about understanding how different parts of a system interact. Instead of getting stuck in heavy jargon, think of it as a clear set of rules where each action causes a direct, predictable reaction. When you break it down into everyday steps, you can see exactly why each component is needed and how they fit together to solve the bigger problem.",
+      "analogy": "Think of Quantum Entanglement like a busy train station dispatch system. If every train follows the assigned track schedule, passenger traffic flows smoothly without delays. But if two trains compete for the same single rail at the same moment without a signal operator, everything grinds to a halt. The limitation of this analogy is that real physical systems have human operators who can improvise, whereas computational processes follow strict algorithmic logic.",
+      "keyTerms": [
+        {
+          "term": "Quantum Entanglement",
+          "definition": "The central subject of study describing how its constituent elements interact.",
+          "whyItMatters": "Forms the primary theoretical model."
+        },
+        {
+          "term": "Core Mechanism",
+          "definition": "The sequence of operations or state transitions governing this system.",
+          "whyItMatters": "Determines predictable system behavior."
+        }
+      ],
+      "takeaways": [
+        "Quantum Entanglement is fundamentally about maintaining predictable order among competing components.",
+        "Understanding the core constraints makes it easier to prevent errors and debug edge cases.",
+        "Real-world systems rely on these exact principles to ensure reliable day-to-day operation."
+      ],
+      "example": "Consider a real-world scenario where two concurrent operations attempt to access the same shared record at once. Without the coordination rules of Quantum Entanglement, data corruption or permanent waiting can occur.",
+      "selfCheck": {
+        "question": "Why is it important to understand the core rules and constraints of Quantum Entanglement before attempting to build or modify a complex system?",
+        "hint": "Think about what happens when components try to execute at the same time without coordination."
+      },
+      "sources": [],
+      "searchStatus": "search_unavailable",
+      "verificationNotes": "Web search API key is not configured; explanation grounded directly in supplied academic text.",
+      "createdAt": "2026-10-13T08:43:39.190Z"
+    },
+    {
+      "id": "exp_1791881169739_vajf2",
+      "userId": "guest",
+      "sessionId": "sess_1791881169734_4zdv3",
+      "topic": "Quantum Entanglement",
+      "mode": "decoder",
+      "conceptTitle": "Quantum Entanglement",
+      "simpleExplanation": "Quantum Entanglement describes a special connection between two or more tiny particles. When particles become entangled, their individual properties, like their spin or energy, become linked together. This means that even if these particles are separated by huge distances, the state of one particle cannot be fully described without also considering the state of the others. If you measure a property of one entangled particle, you instantly know the corresponding property of its entangled partner, no matter how far apart they are.",
+      "analogy": "Imagine you have two special coins, a 'Heads-only' coin and a 'Tails-only' coin, but you don't know which is which. They are placed into two separate, identical, sealed envelopes. One envelope is sent to the moon, and the other stays with you. You open your envelope and find the 'Heads-only' coin. Instantly, without needing to open the other envelope or send any signal, you know that the envelope on the moon *must* contain the 'Tails-only' coin. \n\n*   **Mapping:** The two special coins represent the two entangled particles. The 'Heads-only' and 'Tails-only' properties represent the linked quantum states (e.g., spin up or spin down). Opening your envelope and seeing your coin represents measuring one particle. Instantly knowing the other coin's property represents the instantaneous correlation in entanglement.\n*   **Limitation:** In this analogy, the coins *already had* their 'Heads-only' or 'Tails-only' property before you opened the envelope. In true quantum entanglement, the particles don't have a definite property until one of them is measured. The act of measurement forces them both into a definite, correlated state.",
+      "keyTerms": [
+        {
+          "term": "Quantum State",
+          "definition": "The complete description of a particle's properties, such as its energy, momentum, and spin. Before measurement, an entangled particle can exist in a 'superposition' of multiple possible states."
+        },
+        {
+          "term": "Particles",
+          "definition": "Tiny, fundamental units of matter or energy, such as electrons, photons, or atoms, which are the subjects of quantum physics."
+        }
+      ],
+      "takeaways": [
+        "Quantum entanglement links the properties of two or more particles, making them interdependent.",
+        "The quantum state of one entangled particle cannot be described without considering its partners.",
+        "Measuring a property of one entangled particle instantly determines the corresponding property of its partners, regardless of the distance between them.",
+        "This connection is a fundamental aspect of quantum mechanics and has no direct equivalent in our everyday experience."
+      ],
+      "example": "Imagine two photons (particles of light) are created in a way that entangles them. One photon is sent to a laboratory in New York, and the other to a lab in London. If scientists in New York measure their photon's polarization (the direction its light waves vibrate) to be vertical, they instantly know that the photon in London, if measured, will have horizontal polarization, even though no information traveled between the labs.",
+      "selfCheck": {
+        "question": "If two particles are entangled and one is measured to have a specific property (e.g., 'spin up'), what can you immediately conclude about its entangled partner, even if it's on the other side of the galaxy?",
+        "hint": "Think about how the properties of entangled particles are connected and whether distance affects this connection."
+      },
+      "sources": [],
+      "searchStatus": "search_unavailable",
+      "verificationNotes": "Generated via live AI without live web sources.",
+      "createdAt": "2026-10-13T08:46:09.739Z"
+    },
+    {
+      "id": "exp_1791881378569_0f4s9",
+      "userId": "guest",
+      "sessionId": "sess_1791881378563_3iyx6",
+      "topic": "Chlorophyll",
+      "mode": "decoder",
+      "conceptTitle": "Chlorophyll",
+      "simpleExplanation": "Chlorophyll is a green biological pigment found inside chloroplasts of plants, algae, and cyanobacteria. Its primary role is absorbing sunlight—specifically blue and red wavelengths—to drive photosynthesis, while reflecting green light, which makes plants look green.",
+      "analogy": "Think of chlorophyll as biological solar panels installed on a plant leaf. Just as solar panels capture light energy from the sun and convert it into electricity, chlorophyll captures light photons and converts that energy into chemical energy stored in sugars.",
+      "keyTerms": [
+        {
+          "term": "Chloroplast",
+          "definition": "The cellular organelle in plant and algal cells where photosynthesis takes place."
+        },
+        {
+          "term": "Thylakoid Membrane",
+          "definition": "The microscopic internal membrane structure inside chloroplasts where chlorophyll pigments are embedded."
+        },
+        {
+          "term": "Absorption Spectrum",
+          "definition": "The specific wavelengths of electromagnetic radiation (light) that a pigment absorbs most effectively (for chlorophyll: blue ~430nm and red ~660nm)."
+        },
+        {
+          "term": "Chlorophyll-a & b",
+          "definition": "The two main types of chlorophyll in plants: chlorophyll-a is the primary electron donor in the light reaction; chlorophyll-b acts as an accessory antenna pigment."
+        }
+      ],
+      "takeaways": [
+        "Chlorophyll is the essential photosynthetic pigment that traps light energy in plants, algae, and cyanobacteria.",
+        "It absorbs blue and red wavelengths of light while reflecting green light, giving foliage its green color.",
+        "It contains a magnesium ion (Mg2+) held within a porphyrin ring structure responsible for electron excitation.",
+        "Without chlorophyll, oxygenic photosynthesis cannot initiate the light-dependent reactions that produce ATP and NADPH."
+      ],
+      "example": "In autumn, deciduous trees break down chlorophyll to reabsorb its nutrients. As the dominant green chlorophyll fades away, underlying accessory pigments like orange carotenoids and yellow xanthophylls become visible.",
+      "selfCheck": {
+        "question": "Why do plant leaves appear green to the human eye, even though chlorophyll absorbs light for photosynthesis?",
+        "hint": "Consider which wavelengths of the visible spectrum chlorophyll absorbs versus which wavelengths it reflects back to your eyes."
+      },
+      "sources": [],
+      "searchStatus": "search_unavailable",
+      "verificationNotes": "Grounded in CogniPath Academic Knowledge Base. Web search API key unconfigured.",
+      "createdAt": "2026-10-13T08:49:38.569Z"
+    },
+    {
+      "id": "exp_1791881422785_7phcd",
+      "userId": "guest",
+      "sessionId": "sess_1791881422782_tkxqe",
+      "topic": "Solar System",
+      "mode": "decoder",
+      "conceptTitle": "Solar System",
+      "simpleExplanation": "The Solar System is a gravitationally bound planetary system comprising a central G-type main-sequence star—the Sun, and the celestial objects that orbit it, maintained by Newtonian and relativistic gravitational fields.",
+      "analogy": "Think of this concept as a layered system where each part builds on the previous one — just like chapters in a textbook, each section of \"Solar System\" connects to the next.",
+      "keyTerms": [
+        {
+          "term": "Heliocentric Architecture",
+          "definition": "A structural configuration where a central star (Sun) acts as the dominant gravitational anchor for a"
+        },
+        {
+          "term": "Planets",
+          "definition": "The inner rocky worlds—Mercury, Venus, Earth, and Mars—characterized by silicate mantles and metallic"
+        }
+      ],
+      "takeaways": [
+        "Heliocentric Architecture: A structural configuration where a central star (Sun) acts as the dominant gravitational anchor for all revolving bodies.",
+        "Terrestrial (Telluric) Planets: The inner rocky worlds—Mercury, Venus, Earth, and Mars—characterized by silicate mantles and metallic cores.",
+        "Jovian (Gas and Ice Giant) Planets: The outer massive planetary bodies—Jupiter, Saturn, Uranus, and Neptune—composed predominantly of hydrogen, helium, water, ammonia, and methane ices.",
+        "Keplerian Orbital Dynamics: The elliptical trajectories traced by orbiting bodies as they revolve around a focal mass governed by gravitational pull.",
+        "Planetary Perturbation and Resonance: Gravitational interactions between orbiting bodies that subtly alter their orbital paths or rotational frequencies over cosmic timescales."
+      ],
+      "example": "Apply the ideas in this passage by identifying a real-world situation where Solar System plays a direct role.",
+      "selfCheck": {
+        "question": "What is the single most important idea in the passage about Solar System?",
+        "hint": "Re-read the first and last sentence of each section in the passage."
+      },
+      "sources": [],
+      "searchStatus": "search_unavailable",
+      "verificationNotes": "Generated via live AI without live web sources.",
+      "createdAt": "2026-10-13T08:50:22.785Z"
+    },
+    {
+      "id": "exp_1791882821471_qe9mw",
+      "userId": "guest",
+      "sessionId": "sess_1791882821459_2ew51",
+      "topic": "The Solar System",
+      "mode": "decoder",
+      "conceptTitle": "The Solar System",
+      "simpleExplanation": "The Solar System is our cosmic neighborhood. It is a collection of everything that orbits our central star, the Sun. The Sun is like a giant anchor because its immense gravitational pull keeps all the planets and other objects moving around it in predictable paths. These objects include eight main planets, which are divided into two groups: the inner, rocky 'Terrestrial' planets (like Earth) and the outer, massive 'Jovian' gas and ice giants (like Jupiter).",
+      "analogy": "Imagine a parent standing in the middle of a park, holding hands with several children who are spinning around them. The parent represents the Sun, which is at the center and is much larger and heavier. The children represent the planets and other objects that orbit the Sun. The act of the parent holding the children's hands represents gravity, the invisible force that keeps everything connected and moving in a circle around the center. A limitation of this analogy is that gravity works without physical touch, over vast distances, and in three dimensions, unlike holding hands on a flat surface.",
+      "keyTerms": [
+        {
+          "term": "Solar System",
+          "definition": "A system of celestial objects, including planets, moons, asteroids, and comets, that orbit a central star (the Sun) due to its gravitational pull.",
+          "whyItMatters": "It is our home in the universe and contains all the planets we know, including Earth."
+        },
+        {
+          "term": "Sun",
+          "definition": "The central star of our Solar System, a massive ball of hot gas that provides light, heat, and the dominant gravitational force.",
+          "whyItMatters": "It is the source of almost all energy for life on Earth and the gravitational anchor for the entire Solar System."
+        },
+        {
+          "term": "Gravity",
+          "definition": "A fundamental force of nature that attracts any two objects with mass towards each other. The more massive an object, the stronger its gravitational pull.",
+          "whyItMatters": "Gravity is the force that keeps planets in orbit around the Sun and prevents them from flying off into space."
+        },
+        {
+          "term": "Terrestrial Planets",
+          "definition": "The four inner planets of the Solar System (Mercury, Venus, Earth, and Mars) characterized by their rocky surfaces and relatively smaller sizes.",
+          "whyItMatters": "These planets are similar to Earth in composition and are closer to the Sun, experiencing warmer conditions."
+        },
+        {
+          "term": "Jovian Planets",
+          "definition": "The four outer planets of the Solar System (Jupiter, Saturn, Uranus, and Neptune) characterized by their massive size and composition primarily of gas and ice.",
+          "whyItMatters": "These planets are vastly different from Earth, much larger, and located further from the Sun in colder regions of the Solar System."
+        }
+      ],
+      "takeaways": [
+        "The Solar System is a collection of the Sun and all the celestial objects that orbit it.",
+        "The Sun's powerful gravity is the main force that holds the entire Solar System together, keeping planets in their orbits.",
+        "Planets in our Solar System are categorized into two main types: rocky inner 'Terrestrial' planets and massive outer 'Jovian' gas and ice giants."
+      ],
+      "example": "Earth is a planet within the Solar System, orbiting the Sun once every year. Along with Earth, seven other major planets, countless asteroids, and comets are all held in orbit by the Sun's gravity.",
+      "selfCheck": {
+        "question": "What is the primary reason why planets like Earth do not simply fly off into space but instead follow a path around the Sun?",
+        "hint": "Think about the invisible force that pulls objects towards each other, especially very massive ones."
+      },
+      "sources": [],
+      "searchStatus": "search_unavailable",
+      "verificationNotes": "Generated via live AI without live web sources.",
+      "createdAt": "2026-10-13T09:13:41.471Z"
+    },
+    {
+      "id": "exp_1791882875501_rvqwx",
+      "userId": "guest",
+      "sessionId": "sess_1791882875493_uisht",
+      "topic": "Solar System",
+      "mode": "decoder",
+      "conceptTitle": "Solar System",
+      "simpleExplanation": "The Solar System is a gravitationally bound planetary system comprising a central G-type main-sequence star—the Sun, and the celestial objects that orbit it, maintained by Newtonian and relativistic gravitational fields.",
+      "analogy": "Think of this concept as a layered system where each part builds on the previous one — just like chapters in a textbook, each section of \"Solar System\" connects to the next.",
+      "keyTerms": [
+        {
+          "term": "Heliocentric Architecture",
+          "definition": "A structural configuration where a central star (Sun) acts as the dominant gravitational anchor for a"
+        },
+        {
+          "term": "Planets",
+          "definition": "The inner rocky worlds—Mercury, Venus, Earth, and Mars—characterized by silicate mantles and metallic"
+        }
+      ],
+      "takeaways": [
+        "Heliocentric Architecture: A structural configuration where a central star (Sun) acts as the dominant gravitational anchor for all revolving bodies.",
+        "Terrestrial (Telluric) Planets: The inner rocky worlds—Mercury, Venus, Earth, and Mars—characterized by silicate mantles and metallic cores.",
+        "Jovian (Gas and Ice Giant) Planets: The outer massive planetary bodies—Jupiter, Saturn, Uranus, and Neptune—composed predominantly of hydrogen, helium, water, ammonia, and methane ices.",
+        "Keplerian Orbital Dynamics: The elliptical trajectories traced by orbiting bodies as they revolve around a focal mass governed by gravitational pull.",
+        "Planetary Perturbation and Resonance: Gravitational interactions between orbiting bodies that subtly alter their orbital paths or rotational frequencies over cosmic timescales."
+      ],
+      "example": "Apply the ideas in this passage by identifying a real-world situation where Solar System plays a direct role.",
+      "selfCheck": {
+        "question": "What is the single most important idea in the passage about Solar System?",
+        "hint": "Re-read the first and last sentence of each section in the passage."
+      },
+      "sources": [],
+      "searchStatus": "search_unavailable",
+      "verificationNotes": "Generated via live AI without live web sources.",
+      "createdAt": "2026-10-13T09:14:35.501Z"
+    },
+    {
+      "id": "exp_1791882935855_eo2ge",
+      "userId": "guest",
+      "sessionId": "sess_1791882935850_6gz5d",
+      "topic": "Scheduling",
+      "mode": "decoder",
+      "conceptTitle": "Scheduling",
+      "simpleExplanation": "Scheduling refers to the systematic allocation of resources, time, and tasks to achieve specific goals efficiently while satisfying various constraints.",
+      "analogy": "Think of this concept as a layered system where each part builds on the previous one — just like chapters in a textbook, each section of \"Scheduling\" connects to the next.",
+      "keyTerms": [
+        {
+          "term": "Stochastic Scheduling",
+          "definition": "Planning based on fixed, known parameters versus environments with high uncertainty and probabilistic"
+        },
+        {
+          "term": "Asynchronous Concurrency",
+          "definition": "Managing multiple computational processes that run independently rather than waiting for a centralize"
+        }
+      ],
+      "takeaways": [
+        "Deterministic vs. Stochastic Scheduling: Planning based on fixed, known parameters versus environments with high uncertainty and probabilistic variables.",
+        "Asynchronous Concurrency: Managing multiple computational processes that run independently rather than waiting for a centralized clock signal.",
+        "Preemptive Resource Allocation: A system mechanism where a high-priority task temporarily interrupts and displaces an active, lower-priority task.",
+        "Throughput Optimization: Maximizing the rate at which a system processes a continuous stream of operations over a specific duration.",
+        "Latency Minimization: Structuring tasks specifically to reduce the time lag between the initiation of a request and its complete execution."
+      ],
+      "example": "Apply the ideas in this passage by identifying a real-world situation where Scheduling plays a direct role.",
+      "selfCheck": {
+        "question": "What is the single most important idea in the passage about Scheduling?",
+        "hint": "Re-read the first and last sentence of each section in the passage."
+      },
+      "sources": [],
+      "searchStatus": "search_unavailable",
+      "verificationNotes": "Generated via live AI without live web sources.",
+      "createdAt": "2026-10-13T09:15:35.855Z"
+    },
+    {
+      "id": "exp_1791883898777_pgp6y",
+      "userId": "guest",
+      "sessionId": "sess_1791883898774_4s5sq",
+      "topic": "Solar System",
+      "mode": "decoder",
+      "conceptTitle": "Solar System",
+      "simpleExplanation": "At its heart, Solar System is all about understanding how different parts of a system interact. Instead of getting stuck in heavy jargon, think of it as a clear set of rules where each action causes a direct, predictable reaction. When you break it down into everyday steps, you can see exactly why each component is needed and how they fit together to solve the bigger problem.",
+      "analogy": "Think of Solar System like a busy train station dispatch system. If every train follows the assigned track schedule, passenger traffic flows smoothly without delays. But if two trains compete for the same single rail at the same moment without a signal operator, everything grinds to a halt. The limitation of this analogy is that real physical systems have human operators who can improvise, whereas computational processes follow strict algorithmic logic.",
+      "keyTerms": [
+        {
+          "term": "Solar System",
+          "definition": "The central subject of study describing how its constituent elements interact.",
+          "whyItMatters": "Forms the primary theoretical model."
+        },
+        {
+          "term": "Core Mechanism",
+          "definition": "The sequence of operations or state transitions governing this system.",
+          "whyItMatters": "Determines predictable system behavior."
+        }
+      ],
+      "takeaways": [
+        "Solar System is fundamentally about maintaining predictable order among competing components.",
+        "Understanding the core constraints makes it easier to prevent errors and debug edge cases.",
+        "Real-world systems rely on these exact principles to ensure reliable day-to-day operation."
+      ],
+      "example": "Consider a real-world scenario where two concurrent operations attempt to access the same shared record at once. Without the coordination rules of Solar System, data corruption or permanent waiting can occur.",
+      "selfCheck": {
+        "question": "Why is it important to understand the core rules and constraints of Solar System before attempting to build or modify a complex system?",
+        "hint": "Think about what happens when components try to execute at the same time without coordination."
+      },
+      "sources": [],
+      "searchStatus": "search_unavailable",
+      "verificationNotes": "Web search API key is not configured; explanation grounded directly in supplied academic text.",
+      "createdAt": "2026-10-13T09:31:38.778Z"
+    },
+    {
+      "id": "exp_1791883967191_75e84",
+      "userId": "guest",
+      "sessionId": "sess_1791883967185_7vcci",
+      "topic": "Solar System",
+      "mode": "decoder",
+      "conceptTitle": "Solar System",
+      "simpleExplanation": "At its heart, Solar System is all about understanding how different parts of a system interact. Instead of getting stuck in heavy jargon, think of it as a clear set of rules where each action causes a direct, predictable reaction. When you break it down into everyday steps, you can see exactly why each component is needed and how they fit together to solve the bigger problem.",
+      "analogy": "Think of Solar System like a busy train station dispatch system. If every train follows the assigned track schedule, passenger traffic flows smoothly without delays. But if two trains compete for the same single rail at the same moment without a signal operator, everything grinds to a halt. The limitation of this analogy is that real physical systems have human operators who can improvise, whereas computational processes follow strict algorithmic logic.",
+      "keyTerms": [
+        {
+          "term": "Solar System",
+          "definition": "The central subject of study describing how its constituent elements interact.",
+          "whyItMatters": "Forms the primary theoretical model."
+        },
+        {
+          "term": "Core Mechanism",
+          "definition": "The sequence of operations or state transitions governing this system.",
+          "whyItMatters": "Determines predictable system behavior."
+        }
+      ],
+      "takeaways": [
+        "Solar System is fundamentally about maintaining predictable order among competing components.",
+        "Understanding the core constraints makes it easier to prevent errors and debug edge cases.",
+        "Real-world systems rely on these exact principles to ensure reliable day-to-day operation."
+      ],
+      "example": "Consider a real-world scenario where two concurrent operations attempt to access the same shared record at once. Without the coordination rules of Solar System, data corruption or permanent waiting can occur.",
+      "selfCheck": {
+        "question": "Why is it important to understand the core rules and constraints of Solar System before attempting to build or modify a complex system?",
+        "hint": "Think about what happens when components try to execute at the same time without coordination."
+      },
+      "sources": [],
+      "searchStatus": "search_unavailable",
+      "verificationNotes": "Web search API key is not configured; explanation grounded directly in supplied academic text.",
+      "createdAt": "2026-10-13T09:32:47.191Z"
+    },
+    {
+      "id": "exp_1791884797430_gsdkl",
+      "userId": "guest",
+      "sessionId": "sess_1791884797425_qnfz8",
+      "topic": "Solar System",
+      "mode": "decoder",
+      "conceptTitle": "Solar System",
+      "simpleExplanation": "The Solar System is a gravitationally bound system comprising the Sun and all objects that orbit it.",
+      "analogy": "Think of this concept as a layered system where each part builds on the previous one — just like chapters in a textbook, each section of \"Solar System\" connects to the next.",
+      "keyTerms": [
+        {
+          "term": "System",
+          "definition": "Key term appearing frequently in the source material."
+        },
+        {
+          "term": "Solar",
+          "definition": "Key term appearing frequently in the source material."
+        }
+      ],
+      "takeaways": [
+        "The Solar System is a gravitationally bound system comprising the Sun and all objects that orbit it.",
+        "It formed 4.",
+        "6 billion years ago from a giant molecular cloud.",
+        "The eight planets range from rocky inner worlds to gas and ice giants."
+      ],
+      "example": "Apply the ideas in this passage by identifying a real-world situation where Solar System plays a direct role.",
+      "selfCheck": {
+        "question": "What is the single most important idea in the passage about Solar System?",
+        "hint": "Re-read the first and last sentence of each section in the passage."
+      },
+      "sources": [],
+      "searchStatus": "search_unavailable",
+      "verificationNotes": "Generated via live AI without live web sources.",
+      "createdAt": "2026-10-13T09:46:37.430Z"
+    },
+    {
+      "id": "exp_1791884834956_8aofq",
+      "userId": "guest",
+      "sessionId": "sess_1791884834950_igurw",
+      "topic": "Solar System",
+      "mode": "decoder",
+      "conceptTitle": "Solar System",
+      "simpleExplanation": "Solar System can sound complicated, but the core idea is actually straightforward. It describes a system (or process) where specific components work together following clear rules. Each part has a defined role, and when you see how they connect, the whole picture makes sense. The best way to start is to focus on what Solar System does, rather than memorising every detail all at once.",
+      "analogy": "Think of Solar System like a family of spinning tops of different sizes orbiting around a giant bonfire (the Sun). The fire's gravity acts like an invisible leash that keeps each top in its own lane. Larger tops farther out move more slowly; smaller ones close to the fire zip around quickly — exactly as Kepler's laws describe.",
+      "keyTerms": [
+        {
+          "term": "Solar System",
+          "definition": "The core concept described in the provided text, covering its fundamental principles and interactions.",
+          "whyItMatters": "Understanding this is the first step to mastering the subject area."
+        },
+        {
+          "term": "Key Mechanism",
+          "definition": "The primary process or rule that drives how Solar System operates in practice.",
+          "whyItMatters": "Knowing the mechanism lets you predict behaviour and troubleshoot problems."
+        }
+      ],
+      "takeaways": [
+        "Solar System is built around a set of core principles — understanding those first makes everything else click.",
+        "Breaking Solar System into smaller components makes it far easier to learn and apply.",
+        "Real-world applications of Solar System appear across many fields; recognising them reinforces understanding."
+      ],
+      "example": "To apply Solar System in practice, start by identifying a real situation where its core rules are in play. Ask yourself: which components are involved, what triggers the process, and what is the expected outcome? Working through a concrete case is the fastest route to genuine understanding.",
+      "selfCheck": {
+        "question": "In your own words, explain what Solar System is and why it matters. What would break or change if its core mechanism did not exist?",
+        "hint": "Focus on the role each component plays and how removing one affects the whole system."
+      },
+      "sources": [],
+      "searchStatus": "search_unavailable",
+      "verificationNotes": "Web search is not configured (no API key). Explanation synthesised directly from your supplied text about Solar System.",
+      "createdAt": "2026-10-13T09:47:14.956Z"
+    },
+    {
+      "id": "exp_1791885118157_heyaa",
+      "userId": "guest",
+      "sessionId": "sess_1791885118135_7n4si",
+      "topic": "Solar System",
+      "mode": "decoder",
+      "conceptTitle": "Solar System",
+      "simpleExplanation": "The Solar System is a gravitationally bound system comprising the Sun and all objects that orbit it.",
+      "analogy": "Think of this concept as a layered system where each part builds on the previous one — just like chapters in a textbook, each section of \"Solar System\" connects to the next.",
+      "keyTerms": [
+        {
+          "term": "System",
+          "definition": "Key term appearing frequently in the source material."
+        },
+        {
+          "term": "Solar",
+          "definition": "Key term appearing frequently in the source material."
+        }
+      ],
+      "takeaways": [
+        "The Solar System is a gravitationally bound system comprising the Sun and all objects that orbit it.",
+        "It formed 4.",
+        "6 billion years ago from a giant molecular cloud.",
+        "The eight planets range from rocky inner worlds to gas and ice giants."
+      ],
+      "example": "Apply the ideas in this passage by identifying a real-world situation where Solar System plays a direct role.",
+      "selfCheck": {
+        "question": "What is the single most important idea in the passage about Solar System?",
+        "hint": "Re-read the first and last sentence of each section in the passage."
+      },
+      "sources": [],
+      "searchStatus": "search_unavailable",
+      "verificationNotes": "Generated via live AI without live web sources.",
+      "createdAt": "2026-10-13T09:51:58.157Z"
+    },
+    {
+      "id": "exp_1791885164436_2kflq",
+      "userId": "guest",
+      "sessionId": "sess_1791885164429_cf2f1",
+      "topic": "The Solar System",
+      "mode": "decoder",
+      "conceptTitle": "The Solar System",
+      "simpleExplanation": "Our Solar System is like a big family in space. At its center is the Sun, which is a star. Everything else in the Solar System, like planets, moons, and asteroids, moves around the Sun. This is because the Sun is very, very big and heavy, and its gravity pulls everything towards it. Our Solar System is very old, forming about 4.6 billion years ago from a huge cloud of gas and dust. It has eight main planets. Some are rocky and small, like Earth, while others are giant balls of gas or ice, like Jupiter or Neptune.",
+      "analogy": "{\"analogyText\":\"Imagine a merry-go-round at a park. The Sun is like the central pole of the merry-go-round. The planets are like the horses or seats on the merry-go-round. The pole is fixed, and everything attached to it spins around it. The force that keeps the horses attached and spinning is like the Sun's gravity, which keeps the planets orbiting.\",\"analogyExplanation\":\"In this analogy, the central pole represents the Sun. The horses or seats represent the planets. The spinning motion of the merry-go-round represents the orbits of the planets around the Sun. The force holding the horses to the pole is like gravity, which holds the planets in their paths. A limitation is that a merry-go-round is pushed by people, while the Solar System's motion is a result of its formation and gravity, not an external push.\",\"analogyLimitations\":\"The merry-go-round requires an external force (people pushing) to spin, whereas the Solar System's motion is a natural consequence of gravity and the initial formation of the system. Also, the distances and speeds in the Solar System are vastly different from a merry-go-round.\"}",
+      "keyTerms": [
+        {
+          "term": "Orbit",
+          "definition": "The curved path of a celestial object or spacecraft around a star, planet, or moon.",
+          "whyItMatters": "Understanding orbits is key to knowing how planets and other objects move around the Sun."
+        },
+        {
+          "term": "Gravity",
+          "definition": "The force that attracts a body toward the center of the earth, or toward any other physical body having mass.",
+          "whyItMatters": "Gravity is the fundamental force that holds the Solar System together, keeping planets in orbit around the Sun."
+        },
+        {
+          "term": "Planet",
+          "definition": "A celestial body moving in an elliptical orbit around a star.",
+          "whyItMatters": "Planets are the major bodies that orbit our Sun, and they come in different types (rocky, gas, ice)."
+        }
+      ],
+      "takeaways": [
+        "The Solar System consists of the Sun and everything that orbits it, held together by the Sun's gravity.",
+        "It formed about 4.6 billion years ago from a large cloud of gas and dust.",
+        "There are eight planets in our Solar System, varying from rocky to gas and ice giants."
+      ],
+      "example": "Earth is a planet in our Solar System. It orbits the Sun, and this orbit takes about 365 days to complete, which is why we have a year. The Sun's gravity keeps Earth from flying off into space.",
+      "selfCheck": {
+        "question": "If the Sun suddenly disappeared, what would happen to the planets, and why?",
+        "hint": "Think about what force keeps the planets moving around the Sun."
+      },
+      "sources": [],
+      "searchStatus": "search_unavailable",
+      "verificationNotes": "Generated via live AI without live web sources.",
+      "createdAt": "2026-10-13T09:52:44.436Z"
+    },
+    {
+      "id": "exp_1791885199275_eqnub",
+      "userId": "guest",
+      "sessionId": "sess_1791885199268_fmnry",
+      "topic": "Solar System",
+      "mode": "decoder",
+      "conceptTitle": "Solar System",
+      "simpleExplanation": "The Solar System is a gravitationally bound system comprising the Sun and all objects that orbit it.",
+      "analogy": "Think of this concept as a layered system where each part builds on the previous one — just like chapters in a textbook, each section of \"Solar System\" connects to the next.",
+      "keyTerms": [
+        {
+          "term": "System",
+          "definition": "Key term appearing frequently in the source material."
+        },
+        {
+          "term": "Solar",
+          "definition": "Key term appearing frequently in the source material."
+        }
+      ],
+      "takeaways": [
+        "The Solar System is a gravitationally bound system comprising the Sun and all objects that orbit it.",
+        "It formed 4.",
+        "6 billion years ago from a giant molecular cloud.",
+        "The eight planets range from rocky inner worlds to gas and ice giants."
+      ],
+      "example": "Apply the ideas in this passage by identifying a real-world situation where Solar System plays a direct role.",
+      "selfCheck": {
+        "question": "What is the single most important idea in the passage about Solar System?",
+        "hint": "Re-read the first and last sentence of each section in the passage."
+      },
+      "sources": [],
+      "searchStatus": "search_unavailable",
+      "verificationNotes": "Generated via live AI without live web sources.",
+      "createdAt": "2026-10-13T09:53:19.275Z"
+    },
+    {
+      "id": "exp_1791885237287_pxcwy",
+      "userId": "guest",
+      "sessionId": "sess_1791885237283_4ph8z",
+      "topic": "The Solar System",
+      "mode": "decoder",
+      "conceptTitle": "The Solar System",
+      "simpleExplanation": "Our Solar System is like a big family in space. At the center is the Sun, a star. Everything else, like planets, moons, and asteroids, moves around the Sun. This is because the Sun is very massive, and its gravity pulls everything towards it. This system formed a very long time ago, about 4.6 billion years ago, from a huge cloud of gas and dust. The planets are different: some are rocky like Earth, and others are giant balls of gas or ice.",
+      "analogy": "Imagine a large, spinning merry-go-round at a park. The Sun is like the central pole of the merry-go-round. The planets are like the horses or seats on the merry-go-round. The merry-go-round spins, and everything on it moves in a circle around the center. The Sun's gravity is like the strong force holding everything to the merry-go-round, keeping the planets from flying off into space. The different types of planets (rocky vs. gas giants) are like different types of seats on the merry-go-round – some might be basic benches, while others are more elaborate. Note: This analogy doesn't show the vast distances between planets or the fact that planets orbit in elliptical paths, not perfect circles. It also doesn't explain how the Solar System formed from a cloud of gas and dust.",
+      "keyTerms": [
+        {
+          "term": "Orbit",
+          "definition": "The curved path of a celestial object or spacecraft around a star, planet, or moon.",
+          "whyItMatters": "Understanding orbits is key to knowing how planets and other objects move around the Sun."
+        },
+        {
+          "term": "Gravity",
+          "definition": "The force that attracts a body toward the center of the earth, or toward any other physical body having mass.",
+          "whyItMatters": "Gravity is the invisible force that holds the entire Solar System together, keeping planets in their orbits around the Sun."
+        },
+        {
+          "term": "Molecular Cloud",
+          "definition": "A large, dense cloud of gas (mostly hydrogen and helium) and dust in interstellar space.",
+          "whyItMatters": "This is the birthplace of stars and planetary systems, including our own Solar System."
+        }
+      ],
+      "takeaways": [
+        "The Solar System consists of the Sun and everything that orbits it due to the Sun's gravity.",
+        "It was formed about 4.6 billion years ago from a giant cloud of gas and dust.",
+        "The eight planets in our Solar System vary, including rocky planets and gas/ice giants."
+      ],
+      "example": "Earth is a planet in our Solar System. It orbits the Sun, and this orbit takes about 365 days to complete. The Sun's gravity is what keeps Earth from drifting away into space.",
+      "selfCheck": {
+        "question": "If the Sun suddenly disappeared, what would happen to the planets?",
+        "hint": "Think about what force is keeping the planets moving around the Sun."
+      },
+      "sources": [],
+      "searchStatus": "search_unavailable",
+      "verificationNotes": "Generated via live AI without live web sources.",
+      "createdAt": "2026-10-13T09:53:57.287Z"
+    },
+    {
+      "id": "exp_1791886608467_tgmz2",
+      "userId": "guest",
+      "sessionId": "sess_1791886608461_zzhwq",
+      "topic": "Generative artificial intelligence (GenA",
+      "mode": "decoder",
+      "conceptTitle": "Generative artificial intelligence (GenA",
+      "simpleExplanation": "Generative artificial intelligence (GenA can sound complicated, but the core idea is actually straightforward. It describes a system (or process) where specific components work together following clear rules. Each part has a defined role, and when you see how they connect, the whole picture makes sense. The best way to start is to focus on what Generative artificial intelligence (GenA does, rather than memorising every detail all at once.",
+      "analogy": "Think of Generative artificial intelligence (GenA like a recipe. Each ingredient has a specific role; the steps must be followed in a particular order; and leaving out a key component changes the final dish entirely. Once you understand what each ingredient does and why the steps are ordered the way they are, the entire process becomes intuitive rather than mysterious.",
+      "keyTerms": [
+        {
+          "term": "Generative artificial intelligence (GenA",
+          "definition": "The core concept described in the provided text, covering its fundamental principles and interactions.",
+          "whyItMatters": "Understanding this is the first step to mastering the subject area."
+        },
+        {
+          "term": "Key Mechanism",
+          "definition": "The primary process or rule that drives how Generative artificial intelligence (GenA operates in practice.",
+          "whyItMatters": "Knowing the mechanism lets you predict behaviour and troubleshoot problems."
+        }
+      ],
+      "takeaways": [
+        "Generative artificial intelligence (GenA is built around a set of core principles — understanding those first makes everything else click.",
+        "Breaking Generative artificial intelligence (GenA into smaller components makes it far easier to learn and apply.",
+        "Real-world applications of Generative artificial intelligence (GenA appear across many fields; recognising them reinforces understanding."
+      ],
+      "example": "To apply Generative artificial intelligence (GenA in practice, start by identifying a real situation where its core rules are in play. Ask yourself: which components are involved, what triggers the process, and what is the expected outcome? Working through a concrete case is the fastest route to genuine understanding.",
+      "selfCheck": {
+        "question": "In your own words, explain what Generative artificial intelligence (GenA is and why it matters. What would break or change if its core mechanism did not exist?",
+        "hint": "Focus on the role each component plays and how removing one affects the whole system."
+      },
+      "sources": [],
+      "searchStatus": "search_unavailable",
+      "verificationNotes": "Web search is not configured (no API key). Explanation synthesised directly from your supplied text about Generative artificial intelligence (GenA.",
+      "createdAt": "2026-10-13T10:16:48.467Z"
+    },
+    {
+      "id": "exp_1791902193056_x188j",
+      "userId": "guest",
+      "sessionId": "sess_1791902193050_iqdv4",
+      "topic": "Database Normalization",
+      "mode": "decoder",
+      "conceptTitle": "Database Normalization",
+      "simpleExplanation": "Database normalization is the process of organizing data in a relational database to reduce data redundancy and eliminate anomalies during inserts, updates, and deletes. It involves decomposing large, messy tables into smaller, well-structured tables linked by foreign keys.",
+      "analogy": "Imagine keeping a single paper spreadsheet where every customer order includes the customer’s full name, home address, and phone number on every row. If a customer moves, you have to update their address on 50 different rows—and if you miss one, your records conflict! Normalization means keeping one \"Customers\" list and one \"Orders\" list, connected by a simple Customer ID.",
+      "keyTerms": [
+        {
+          "term": "First Normal Form (1NF)",
+          "definition": "Each table cell must contain a single atomic (indivisible) value, with no repeating groups or comma-separated lists."
+        },
+        {
+          "term": "Second Normal Form (2NF)",
+          "definition": "Must be in 1NF, and all non-key attributes must be fully functionally dependent on the entire primary key (no partial dependencies)."
+        },
+        {
+          "term": "Third Normal Form (3NF)",
+          "definition": "Must be in 2NF, and no non-key attribute can depend on another non-key attribute (no transitive dependencies)."
+        },
+        {
+          "term": "Modification Anomalies",
+          "definition": "Insert, update, or delete bugs that corrupt data integrity when tables are not normalized."
+        }
+      ],
+      "takeaways": [
+        "Normalization organizes relational tables to eliminate redundant duplicate data.",
+        "It prevents update anomalies, deletion anomalies, and insertion anomalies.",
+        "1NF ensures atomic columns; 2NF removes partial key dependencies; 3NF removes transitive dependencies.",
+        "Over-normalization can require complex SQL JOINs, so production systems sometimes selectively denormalize for read performance."
+      ],
+      "example": "Instead of storing CourseName and InstructorEmail inside an Enrollment table, 3NF separates them into a Courses table and an Instructors table linked by IDs.",
+      "selfCheck": {
+        "question": "What is a transitive dependency, and which normal form is specifically designed to eliminate it?",
+        "hint": "Think about when column A determines column B, and column B determines column C."
+      },
+      "sources": [],
+      "searchStatus": "search_unavailable",
+      "verificationNotes": "Grounded in CogniPath Academic Knowledge Base. Web search API key unconfigured.",
+      "createdAt": "2026-10-13T14:36:33.056Z"
+    },
+    {
+      "id": "exp_1791902302472_2fa8j",
+      "userId": "guest",
+      "sessionId": "sess_1791902302466_9i9f4",
+      "topic": "ACID Properties for Reliable Database Transactions",
+      "mode": "decoder",
+      "conceptTitle": "ACID Properties for Reliable Database Transactions",
+      "simpleExplanation": "ACID is a set of rules that ensures database transactions are handled safely and reliably. Think of a transaction as a single operation, like transferring money between bank accounts. ACID makes sure this operation either completes perfectly or doesn't happen at all, and that it's done correctly even if many operations happen at the same time or the system crashes. \n\n**Atomicity** means a transaction is an all-or-nothing deal. If you're moving money, either the money leaves your account AND arrives in the other, or neither happens. If anything goes wrong halfway, the whole thing is canceled, and your accounts are left as they were before.\n\n**Consistency** means a transaction must move the database from one valid state to another. For example, you can't have an account balance go below zero if that's not allowed. The rules of the database must always be followed.\n\n**Isolation** means that even if many transactions are happening at the same time, they don't mess each other up. Each transaction should act as if it's the only one running. It prevents one transaction from seeing incomplete or incorrect data from another.\n\n**Durability** means that once a transaction is confirmed as complete, it's permanent. Even if the computer crashes right after, the changes will still be there when the system comes back up.",
+      "analogy": "Imagine a chef preparing a complex meal with multiple steps (a transaction). The kitchen has strict rules (ACID properties).\n\n*   **Atomicity:** The chef either completes the entire meal perfectly, or if any part fails (e.g., burns the main course), the whole meal is scrapped, and nothing is served. It's all or nothing.\n*   **Consistency:** The chef must follow the recipe and ensure the final meal is edible and meets all dietary requirements (database rules). They can't serve a dish that's fundamentally flawed or violates a known rule (like serving raw meat when it should be cooked).\n*   **Isolation:** If multiple chefs are working in the same kitchen at the same time, they must not interfere with each other's ingredients or cooking stations. Each chef's work should appear independent, as if they were the only one in the kitchen.\n*   **Durability:** Once the meal is plated and declared 'ready' (committed), it's considered final. Even if the kitchen lights suddenly go out (system crash), the plated meal remains as it was.",
+      "keyTerms": [
+        {
+          "term": "Transaction",
+          "definition": "A single, logical unit of work performed on a database. It can involve one or more operations.",
+          "whyItMatters": "ACID properties are applied to ensure these units of work are processed reliably."
+        },
+        {
+          "term": "Rollback",
+          "definition": "The process of undoing all changes made by a transaction that failed or was intentionally canceled, returning the database to its state before the transaction began.",
+          "whyItMatters": "Essential for Atomicity, ensuring that incomplete transactions do not leave the database in a corrupted state."
+        },
+        {
+          "term": "Commit",
+          "definition": "The process of making all changes from a completed transaction permanent in the database.",
+          "whyItMatters": "Marks the successful completion of a transaction, triggering Durability."
+        },
+        {
+          "term": "Concurrency",
+          "definition": "The ability of a system to handle multiple transactions or operations happening at the same time.",
+          "whyItMatters": "Isolation is crucial for managing concurrency, preventing simultaneous operations from interfering with each other."
+        }
+      ],
+      "takeaways": [
+        "ACID properties are fundamental for ensuring data integrity and reliability in database systems.",
+        "Atomicity guarantees that transactions are indivisible, either completing entirely or not at all.",
+        "Consistency ensures that transactions always move the database from one valid state to another, respecting all defined rules.",
+        "Isolation prevents concurrent transactions from interfering with each other, maintaining data accuracy.",
+        "Durability ensures that once a transaction is committed, its changes are permanent and survive system failures."
+      ],
+      "example": "When you transfer money from your savings account to your checking account, this is a database transaction. Atomicity ensures that money is deducted from savings AND added to checking, or neither happens. Consistency ensures your account balances remain valid (e.g., not overdrawn if not allowed). Isolation ensures that if someone else is checking your balance at the exact same moment, they see a correct, stable value. Durability ensures that once the transfer is confirmed, it's permanent, even if the bank's server suddenly restarts.",
+      "selfCheck": {
+        "question": "Imagine a system where you can only have one active order at a time. If you try to place a second order while your first one is still being processed (not yet confirmed or canceled), what ACID property is most directly being enforced to prevent this?",
+        "hint": "Think about which property ensures that operations don't interfere with each other and maintain a valid state."
+      },
+      "sources": [],
+      "searchStatus": "search_unavailable",
+      "verificationNotes": "Generated via live AI without live web sources.",
+      "createdAt": "2026-10-13T14:38:22.472Z"
+    },
+    {
+      "id": "exp_1791904206000_lu6cb",
+      "userId": "guest",
+      "sessionId": "sess_1791904205972_eawgs",
+      "topic": "Deep Learning Explained",
+      "mode": "decoder",
+      "conceptTitle": "Deep Learning Explained",
+      "simpleExplanation": "Deep learning is a way computers learn from experience, similar to how humans do. It's a special type of machine learning that uses 'artificial neural networks.' Think of these networks as layers of interconnected processing units, like a simplified version of the neurons in our brain. Each layer learns to recognize different features in data. For example, the first layer might learn to detect edges in an image, the next layer might combine edges to detect shapes, and later layers might recognize complex objects like faces. This layered approach, where each layer builds upon the previous one, is what makes it 'deep.' It allows the computer to automatically discover and learn complex patterns without being explicitly programmed for every single detail.",
+      "analogy": "Imagine teaching a child to recognize a cat. First, you might point out basic shapes like lines and curves (the first layer). Then, you might show how these lines form ears, a tail, and a body (the next layer). Finally, the child combines these parts to understand what a 'cat' is (a deeper layer). Each step builds on the previous one, leading to a more complex understanding. \n\nIn this analogy:\n- The child is the deep learning system.\n- The basic shapes (lines, curves) are the simple features learned by early layers.\n- The parts of the cat (ears, tail, body) are features learned by middle layers.\n- Recognizing the 'cat' is the final output from the deeper layers.\n\nLimitation: This analogy simplifies the complex mathematical processes involved in neural networks. It also doesn't fully capture the vast amounts of data and computational power typically required for deep learning. The analogy maps the hierarchical learning process of deep learning to a child's learning process. Simple features are recognized first, and these are combined to understand more complex concepts, mirroring how layers in a neural network process information.",
+      "keyTerms": [
+        {
+          "term": "Artificial Neural Network",
+          "definition": "A computational model inspired by the structure and function of biological neural networks. It consists of interconnected nodes (neurons) organized in layers.",
+          "whyItMatters": "This is the fundamental structure that deep learning algorithms use to process information and learn patterns."
+        },
+        {
+          "term": "Representation Learning",
+          "definition": "A set of techniques that allows a machine learning system to automatically discover and learn the representations (features) needed for detection or classification from raw data.",
+          "whyItMatters": "Deep learning excels at representation learning, meaning it can figure out the most useful ways to represent data on its own, rather than relying on humans to define those features."
+        }
+      ],
+      "takeaways": [
+        "Deep learning is a type of machine learning that uses layered artificial neural networks.",
+        "The 'deep' in deep learning refers to the multiple layers that process information hierarchically, building complex understanding from simple features.",
+        "Deep learning systems can automatically learn useful representations of data, which is key to their power in tasks like image and speech recognition."
+      ],
+      "example": "A common example is facial recognition on your smartphone. The deep learning model has been trained on millions of images to learn the features that make up a face, from simple edges and textures to the arrangement of eyes, nose, and mouth, allowing it to identify you.",
+      "selfCheck": {
+        "question": "If a deep learning model is trained to identify different types of fruit, and it first learns to detect colors and shapes, then learns to combine these into textures and sizes, and finally recognizes specific fruits like 'apple' or 'banana,' which part of the deep learning process does this illustrate?",
+        "hint": "Think about how information is processed in stages, with each stage building on the previous one, similar to the layers in a neural network."
+      },
+      "sources": [],
+      "searchStatus": "search_unavailable",
+      "verificationNotes": "Generated via live AI without live web sources.",
+      "createdAt": "2026-10-13T15:10:06.000Z"
+    },
+    {
+      "id": "exp_1791904207868_uqfr2",
+      "userId": "guest",
+      "sessionId": "sess_1791904207862_ka6c0",
+      "topic": "Deep Learning",
+      "mode": "decoder",
+      "conceptTitle": "Deep Learning",
+      "simpleExplanation": "Deep Learning can sound complicated, but the core idea is actually straightforward. It describes a system (or process) where specific components work together following clear rules. Each part has a defined role, and when you see how they connect, the whole picture makes sense. The best way to start is to focus on what Deep Learning does, rather than memorising every detail all at once.",
+      "analogy": "Think of Deep Learning like training for a sport. You practice (train) thousands of times; after each attempt your coach (backpropagation) tells you what to fix. Over many repetitions, your brain adjusts (weights update) and your performance improves without memorizing every exact scenario.",
+      "keyTerms": [
+        {
+          "term": "Deep Learning",
+          "definition": "The core concept described in the provided text, covering its fundamental principles and interactions.",
+          "whyItMatters": "Understanding this is the first step to mastering the subject area."
+        },
+        {
+          "term": "Key Mechanism",
+          "definition": "The primary process or rule that drives how Deep Learning operates in practice.",
+          "whyItMatters": "Knowing the mechanism lets you predict behaviour and troubleshoot problems."
+        }
+      ],
+      "takeaways": [
+        "Deep Learning is built around a set of core principles — understanding those first makes everything else click.",
+        "Breaking Deep Learning into smaller components makes it far easier to learn and apply.",
+        "Real-world applications of Deep Learning appear across many fields; recognising them reinforces understanding."
+      ],
+      "example": "To apply Deep Learning in practice, start by identifying a real situation where its core rules are in play. Ask yourself: which components are involved, what triggers the process, and what is the expected outcome? Working through a concrete case is the fastest route to genuine understanding.",
+      "selfCheck": {
+        "question": "In your own words, explain what Deep Learning is and why it matters. What would break or change if its core mechanism did not exist?",
+        "hint": "Focus on the role each component plays and how removing one affects the whole system."
+      },
+      "sources": [],
+      "searchStatus": "search_unavailable",
+      "verificationNotes": "Web search is not configured (no API key). Explanation synthesised directly from your supplied text about Deep Learning.",
+      "createdAt": "2026-10-13T15:10:07.868Z"
+    }
+  ],
+  "focusCards": [
+    {
+      "id": "fc_1791872765010_zg6mw",
+      "userId": "guest",
+      "sessionId": "sess_1791872765009_634v1",
+      "title": "Bite-Sized Guide: chlorophyll",
+      "cards": [
+        {
+          "id": "card_1",
+          "sectionNumber": 1,
+          "title": "Foundations of chlorophyll",
+          "mainIdea": "Understanding aspect 1 of chlorophyll gives you the clarity to navigate related problems with confidence.",
+          "explanation": "In section 1, we focus on how chlorophyll behaves under real conditions. Rather than memorizing definitions, notice how each component connects logically to the preceding step.",
+          "keyPoints": [
+            "Key point 1: Observe the relationship between inputs and outcomes.",
+            "Key point 2: Identify boundary conditions where normal behavior might change.",
+            "Key point 3: Keep terminology consistent throughout your analysis."
+          ],
+          "vocabulary": [
+            {
+              "term": "Factor 1",
+              "definition": "An influential variable determining behavior in this section."
+            }
+          ],
+          "selfCheck": "Can you restate the main takeaway of this section in a single sentence to a study partner?"
+        },
+        {
+          "id": "card_2",
+          "sectionNumber": 2,
+          "title": "Key Mechanisms & Inner Working",
+          "mainIdea": "Understanding aspect 2 of chlorophyll gives you the clarity to navigate related problems with confidence.",
+          "explanation": "In section 2, we focus on how chlorophyll behaves under real conditions. Rather than memorizing definitions, notice how each component connects logically to the preceding step.",
+          "keyPoints": [
+            "Key point 1: Observe the relationship between inputs and outcomes.",
+            "Key point 2: Identify boundary conditions where normal behavior might change.",
+            "Key point 3: Keep terminology consistent throughout your analysis."
+          ],
+          "vocabulary": [
+            {
+              "term": "Factor 2",
+              "definition": "An influential variable determining behavior in this section."
+            }
+          ],
+          "selfCheck": "Can you restate the main takeaway of this section in a single sentence to a study partner?"
+        },
+        {
+          "id": "card_3",
+          "sectionNumber": 3,
+          "title": "Practical Application & Patterns",
+          "mainIdea": "Understanding aspect 3 of chlorophyll gives you the clarity to navigate related problems with confidence.",
+          "explanation": "In section 3, we focus on how chlorophyll behaves under real conditions. Rather than memorizing definitions, notice how each component connects logically to the preceding step.",
+          "keyPoints": [
+            "Key point 1: Observe the relationship between inputs and outcomes.",
+            "Key point 2: Identify boundary conditions where normal behavior might change.",
+            "Key point 3: Keep terminology consistent throughout your analysis."
+          ],
+          "vocabulary": [
+            {
+              "term": "Factor 3",
+              "definition": "An influential variable determining behavior in this section."
+            }
+          ],
+          "selfCheck": "Can you restate the main takeaway of this section in a single sentence to a study partner?"
+        },
+        {
+          "id": "card_4",
+          "sectionNumber": 4,
+          "title": "Common Pitfalls & Synthesis",
+          "mainIdea": "Understanding aspect 4 of chlorophyll gives you the clarity to navigate related problems with confidence.",
+          "explanation": "In section 4, we focus on how chlorophyll behaves under real conditions. Rather than memorizing definitions, notice how each component connects logically to the preceding step.",
+          "keyPoints": [
+            "Key point 1: Observe the relationship between inputs and outcomes.",
+            "Key point 2: Identify boundary conditions where normal behavior might change.",
+            "Key point 3: Keep terminology consistent throughout your analysis."
+          ],
+          "vocabulary": [
+            {
+              "term": "Factor 4",
+              "definition": "An influential variable determining behavior in this section."
+            }
+          ],
+          "selfCheck": "Can you restate the main takeaway of this section in a single sentence to a study partner?"
+        }
+      ],
+      "completedCardIds": [],
+      "createdAt": "2026-10-13T06:26:05.010Z",
+      "updatedAt": "2026-10-13T06:26:05.010Z"
+    },
+    {
+      "id": "fc_1791872825894_wtj4e",
+      "userId": "guest",
+      "sessionId": "sess_1791872825892_ygwig",
+      "title": "Bite-Sized Guide: The word chlorophyll breaks down from two Greek roots: khloros (meaning pale green) and phyllon (mea",
+      "cards": [
+        {
+          "id": "card_1",
+          "sectionNumber": 1,
+          "title": "Foundations of The word chlorophyll breaks down from two Greek roots: khloros (meaning pale green) and phyllon (mea",
+          "mainIdea": "Understanding aspect 1 of The word chlorophyll breaks down from two Greek roots: khloros (meaning pale green) and phyllon (mea gives you the clarity to navigate related problems with confidence.",
+          "explanation": "In section 1, we focus on how The word chlorophyll breaks down from two Greek roots: khloros (meaning pale green) and phyllon (mea behaves under real conditions. Rather than memorizing definitions, notice how each component connects logically to the preceding step.",
+          "keyPoints": [
+            "Key point 1: Observe the relationship between inputs and outcomes.",
+            "Key point 2: Identify boundary conditions where normal behavior might change.",
+            "Key point 3: Keep terminology consistent throughout your analysis."
+          ],
+          "vocabulary": [
+            {
+              "term": "Factor 1",
+              "definition": "An influential variable determining behavior in this section."
+            }
+          ],
+          "selfCheck": "Can you restate the main takeaway of this section in a single sentence to a study partner?"
+        },
+        {
+          "id": "card_2",
+          "sectionNumber": 2,
+          "title": "Key Mechanisms & Inner Working",
+          "mainIdea": "Understanding aspect 2 of The word chlorophyll breaks down from two Greek roots: khloros (meaning pale green) and phyllon (mea gives you the clarity to navigate related problems with confidence.",
+          "explanation": "In section 2, we focus on how The word chlorophyll breaks down from two Greek roots: khloros (meaning pale green) and phyllon (mea behaves under real conditions. Rather than memorizing definitions, notice how each component connects logically to the preceding step.",
+          "keyPoints": [
+            "Key point 1: Observe the relationship between inputs and outcomes.",
+            "Key point 2: Identify boundary conditions where normal behavior might change.",
+            "Key point 3: Keep terminology consistent throughout your analysis."
+          ],
+          "vocabulary": [
+            {
+              "term": "Factor 2",
+              "definition": "An influential variable determining behavior in this section."
+            }
+          ],
+          "selfCheck": "Can you restate the main takeaway of this section in a single sentence to a study partner?"
+        },
+        {
+          "id": "card_3",
+          "sectionNumber": 3,
+          "title": "Practical Application & Patterns",
+          "mainIdea": "Understanding aspect 3 of The word chlorophyll breaks down from two Greek roots: khloros (meaning pale green) and phyllon (mea gives you the clarity to navigate related problems with confidence.",
+          "explanation": "In section 3, we focus on how The word chlorophyll breaks down from two Greek roots: khloros (meaning pale green) and phyllon (mea behaves under real conditions. Rather than memorizing definitions, notice how each component connects logically to the preceding step.",
+          "keyPoints": [
+            "Key point 1: Observe the relationship between inputs and outcomes.",
+            "Key point 2: Identify boundary conditions where normal behavior might change.",
+            "Key point 3: Keep terminology consistent throughout your analysis."
+          ],
+          "vocabulary": [
+            {
+              "term": "Factor 3",
+              "definition": "An influential variable determining behavior in this section."
+            }
+          ],
+          "selfCheck": "Can you restate the main takeaway of this section in a single sentence to a study partner?"
+        },
+        {
+          "id": "card_4",
+          "sectionNumber": 4,
+          "title": "Common Pitfalls & Synthesis",
+          "mainIdea": "Understanding aspect 4 of The word chlorophyll breaks down from two Greek roots: khloros (meaning pale green) and phyllon (mea gives you the clarity to navigate related problems with confidence.",
+          "explanation": "In section 4, we focus on how The word chlorophyll breaks down from two Greek roots: khloros (meaning pale green) and phyllon (mea behaves under real conditions. Rather than memorizing definitions, notice how each component connects logically to the preceding step.",
+          "keyPoints": [
+            "Key point 1: Observe the relationship between inputs and outcomes.",
+            "Key point 2: Identify boundary conditions where normal behavior might change.",
+            "Key point 3: Keep terminology consistent throughout your analysis."
+          ],
+          "vocabulary": [
+            {
+              "term": "Factor 4",
+              "definition": "An influential variable determining behavior in this section."
+            }
+          ],
+          "selfCheck": "Can you restate the main takeaway of this section in a single sentence to a study partner?"
+        }
+      ],
+      "completedCardIds": [],
+      "createdAt": "2026-10-13T06:27:05.894Z",
+      "updatedAt": "2026-10-13T06:27:05.894Z"
+    },
+    {
+      "id": "fc_1791876143813_5g7f2",
+      "userId": "guest",
+      "sessionId": "sess_1791876143810_jg8qb",
+      "title": "Chlorophyll Etymology",
+      "cards": [
+        {
+          "id": "card_1",
+          "sectionNumber": 1,
+          "title": "The word chlorophyll breaks down from",
+          "mainIdea": "The word chlorophyll breaks down from two Greek roots: khloros (meaning pale green) and phyllon (meaning leaf).",
+          "explanation": "The word chlorophyll breaks down from two Greek roots: khloros (meaning pale green) and phyllon (meaning leaf).",
+          "keyPoints": [
+            "The word chlorophyll breaks down from two Greek roots: khloros (meaning pale green) and phyllon (meaning leaf)."
+          ],
+          "vocabulary": [
+            {
+              "term": "khloros",
+              "definition": "pale green"
+            },
+            {
+              "term": "phyllon",
+              "definition": "leaf"
+            }
+          ],
+          "selfCheck": "How does the information in this section connect to the overall meaning of Chlorophyll Etymology?"
+        },
+        {
+          "id": "card_2",
+          "sectionNumber": 2,
+          "title": "Discovered in 1817 by French pharmacists",
+          "mainIdea": "Discovered in 1817 by French pharmacists Joseph Bienaimé Caventou and Pierre Joseph Pelletier.",
+          "explanation": "Discovered in 1817 by French pharmacists Joseph Bienaimé Caventou and Pierre Joseph Pelletier.",
+          "keyPoints": [
+            "Discovered in 1817 by French pharmacists Joseph Bienaimé Caventou and Pierre Joseph Pelletier."
+          ],
+          "vocabulary": [
+            {
+              "term": "phyllon",
+              "definition": "leaf"
+            },
+            {
+              "term": "roots",
+              "definition": "khloros (meaning pale green) and phyllon (meaning leaf)"
+            }
+          ],
+          "selfCheck": "How does the information in this section connect to the overall meaning of Chlorophyll Etymology?"
+        }
+      ],
+      "completedCardIds": [],
+      "createdAt": "2026-10-13T07:22:23.813Z",
+      "updatedAt": "2026-10-13T07:22:23.813Z"
+    },
+    {
+      "id": "fc_1791878538230_e1oz5",
+      "userId": "guest",
+      "sessionId": "sess_1791878538228_yzepf",
+      "title": "Live AI is not configured for custom topic 'Pho",
+      "cards": [
+        {
+          "id": "card_1",
+          "sectionNumber": 1,
+          "title": "Live AI is not configured for",
+          "mainIdea": "Live AI is not configured for custom topic 'Photosynthesis is the biological process by which plants, algae, and cyanobacteria convert light energy into chemical energy to fuel their metabolism.",
+          "explanation": "Live AI is not configured for custom topic 'Photosynthesis is the biological process by which plants, algae, and cyanobacteria convert light energy into chemical energy to fuel their metabolism. Chemical Formula • Equation: \\(6\\text{CO}_2 + 6\\text{H}_2\\text{O} + \\text{Light Energy} \\rightarrow \\text{C}_6\\text{H}_{12}\\text{O}_6 + 6\\text{O}_2\\) • Reactants: Carbon dioxide (\\(\\text{CO}_{2}\\)), water (\\(\\text{H}_2\\text{O}\\)), and sunlight • Products: Glucose (\\(\\text{C}_6\\text{H}_{12}\\text{O}_6\\)) and oxygen (\\(\\text{O}_{2}\\)) Main Stages • Light-Dependent Reactions: Occur in the thylakoid membranes of the chloroplasts. Chlorophyll absorbs sunlight to split water molecules, releasing oxygen and generating energy carriers (ATP and NADPH).",
+          "keyPoints": [
+            "Live AI is not configured for custom topic 'Photosynthesis is the biological process by which plants, algae, and cyanobacteria convert light energy into chemical energy to fuel their metabolism.",
+            "Chemical Formula • Equation: \\(6\\text{CO}_2 + 6\\text{H}_2\\text{O} + \\text{Light Energy} \\rightarrow \\text{C}_6\\text{H}_{12}\\text{O}_6 + 6\\text{O}_2\\) • Reactants: Carbon dioxide (\\(\\text{CO}_{2}\\)), water (\\(\\text{H}_2\\text{O}\\)), and sunlight • Products: Glucose (\\(\\text{C}_6\\text{H}_{12}\\text{O}_6\\)) and oxygen (\\(\\text{O}_{2}\\)) Main Stages • Light-Dependent Reactions: Occur in the thylakoid membranes of the chloroplasts.",
+            "Chlorophyll absorbs sunlight to split water molecules, releasing oxygen and generating energy carriers (ATP and NADPH)."
+          ],
+          "vocabulary": [
+            {
+              "term": "Equation",
+              "definition": "\\(6\\text{CO}_2 + 6\\text{H}_2\\text{O} + \\text{Light Energy} \\rightarrow \\text{C}_6\\text{H}_{12}\\text{O}_6 + 6\\text{O}_2\\) • Reactants: Carbon dioxide (\\(\\text{CO}_{2}\\)), water (\\(\\text{H}_2\\text{O}\\)), and sunlight • Products: Glucose (\\(\\text{C}_6\\text{H}_{12}\\text{O}_6\\)) and oxygen (\\(\\text{O}_{2}\\)) Main Stages • Light-Dependent Reactions: Occur in the thylakoid membranes of the chloroplasts"
+            },
+            {
+              "term": "Producers",
+              "definition": "Forms the base of the food chain for nearly all life on Earth"
+            }
+          ],
+          "selfCheck": "How does the information in this section connect to the overall meaning of Live AI is not configured for custom topic 'Pho?"
+        },
+        {
+          "id": "card_2",
+          "sectionNumber": 2,
+          "title": "• Light-Independent Reactions (Calvin...",
+          "mainIdea": "• Light-Independent Reactions (Calvin Cycle): Occur in the stroma of the chloroplasts.",
+          "explanation": "• Light-Independent Reactions (Calvin Cycle): Occur in the stroma of the chloroplasts. They use the ATP and NADPH produced in the first stage to fix carbon dioxide into sugars like glucose. Why It Matters • Primary Producers: Forms the base of the food chain for nearly all life on Earth.",
+          "keyPoints": [
+            "• Light-Independent Reactions (Calvin Cycle): Occur in the stroma of the chloroplasts.",
+            "They use the ATP and NADPH produced in the first stage to fix carbon dioxide into sugars like glucose.",
+            "Why It Matters • Primary Producers: Forms the base of the food chain for nearly all life on Earth."
+          ],
+          "vocabulary": [
+            {
+              "term": "Producers",
+              "definition": "Forms the base of the food chain for nearly all life on Earth"
+            },
+            {
+              "term": "Oxygen",
+              "definition": "Maintains and replenishes the oxygen content in the atmosphere"
+            }
+          ],
+          "selfCheck": "How does the information in this section connect to the overall meaning of Live AI is not configured for custom topic 'Pho?"
+        },
+        {
+          "id": "card_3",
+          "sectionNumber": 3,
+          "title": "• Atmospheric Oxygen: Maintains and r...",
+          "mainIdea": "• Atmospheric Oxygen: Maintains and replenishes the oxygen content in the atmosphere.",
+          "explanation": "• Atmospheric Oxygen: Maintains and replenishes the oxygen content in the atmosphere. '. To generate live AI content for any topic, please configure your GEMINI_API_KEY in server/.",
+          "keyPoints": [
+            "• Atmospheric Oxygen: Maintains and replenishes the oxygen content in the atmosphere.",
+            "'.",
+            "To generate live AI content for any topic, please configure your GEMINI_API_KEY in server/."
+          ],
+          "vocabulary": [
+            {
+              "term": "Oxygen",
+              "definition": "Maintains and replenishes the oxygen content in the atmosphere"
+            }
+          ],
+          "selfCheck": "How does the information in this section connect to the overall meaning of Live AI is not configured for custom topic 'Pho?"
+        },
+        {
+          "id": "card_4",
+          "sectionNumber": 4,
+          "title": "env, or test one of the",
+          "mainIdea": "env, or test one of the core academic topics (Chlorophyll, Binary Search, Database Normalization, Photosynthesis, HTTP API), or paste source text.",
+          "explanation": "env, or test one of the core academic topics (Chlorophyll, Binary Search, Database Normalization, Photosynthesis, HTTP API), or paste source text.",
+          "keyPoints": [
+            "env, or test one of the core academic topics (Chlorophyll, Binary Search, Database Normalization, Photosynthesis, HTTP API), or paste source text."
+          ],
+          "vocabulary": [],
+          "selfCheck": "How does the information in this section connect to the overall meaning of Live AI is not configured for custom topic 'Pho?"
+        }
+      ],
+      "completedCardIds": [],
+      "createdAt": "2026-10-13T08:02:18.230Z",
+      "updatedAt": "2026-10-13T08:02:18.230Z"
+    },
+    {
+      "id": "fc_1791878877801_h75de",
+      "userId": "guest",
+      "sessionId": "sess_1791878877798_6vyki",
+      "title": "Photosynthesis is the biological process by which plants,...",
+      "cards": [
+        {
+          "id": "card_1",
+          "sectionNumber": 1,
+          "title": "Overview",
+          "mainIdea": "Photosynthesis is the biological process by which plants, algae, and cyanobacteria convert light energy into chemical energy to fuel thei...",
+          "explanation": "Photosynthesis is the biological process by which plants, algae, and cyanobacteria convert light energy into chemical energy to fuel their metabolism. Chemical Formula Equation: 6CO2 + 6H2O + Light Energy produces C6H12O6 + 6O2. Reactants: Carbon dioxide, water, and sunlight. Products: Glucose and oxygen. Main Stages: Light-Dependent Reactions occur in the thylakoid membranes of the chloroplasts. Chlorophyll absorbs sunlight to split water molecules, releasing oxygen and generating energy carriers ATP and NADPH. Light-Independent Reactions (Calvin Cycle) occur in the stroma of the chloropla...",
+          "keyPoints": [
+            "Photosynthesis is the biological process by which plants, algae, and cyanobacteria convert light energy into chemical energy to fuel their metabolism.",
+            "Chemical Formula Equation: 6CO2 + 6H2O + Light Energy produces C6H12O6 + 6O2.",
+            "Reactants: Carbon dioxide, water, and sunlight.",
+            "Products: Glucose and oxygen."
+          ],
+          "vocabulary": [
+            {
+              "term": "Reactants",
+              "definition": "Carbon dioxide, water, and sunlight"
+            },
+            {
+              "term": "Products",
+              "definition": "Glucose and oxygen"
+            }
+          ],
+          "selfCheck": "What is the key point about \"Overview\" and how does it relate to Photosynthesis is the biological process by which plants,...?"
+        }
+      ],
+      "completedCardIds": [],
+      "createdAt": "2026-10-13T08:07:57.801Z",
+      "updatedAt": "2026-10-13T08:07:57.801Z"
+    },
+    {
+      "id": "fc_1791878921666_mo3ot",
+      "userId": "guest",
+      "sessionId": "sess_1791878921662_j4g4p",
+      "title": "Photosynthesis is the biological process by which plants,...",
+      "cards": [
+        {
+          "id": "card_1",
+          "sectionNumber": 1,
+          "title": "Overview",
+          "mainIdea": "Photosynthesis is the biological process by which plants, algae, and cyanobacteria convert light energy into chemical energy to fuel thei...",
+          "explanation": "Photosynthesis is the biological process by which plants, algae, and cyanobacteria convert light energy into chemical energy to fuel their metabolism.  Reactants are carbon dioxide, water, and sunlight.",
+          "keyPoints": [
+            "Photosynthesis is the biological process by which plants, algae, and cyanobacteria convert light energy into chemical energy to fuel their metabolism.",
+            "Reactants are carbon dioxide, water, and sunlight."
+          ],
+          "vocabulary": [
+            {
+              "term": "Light",
+              "definition": "Key term appearing frequently in the source material."
+            },
+            {
+              "term": "Energy",
+              "definition": "Key term appearing frequently in the source material."
+            }
+          ],
+          "selfCheck": "What is the key point about \"Overview\" and how does it relate to Photosynthesis is the biological process by which plants,...?"
+        },
+        {
+          "id": "card_2",
+          "sectionNumber": 2,
+          "title": "Section 2",
+          "mainIdea": "Products are glucose and oxygen.",
+          "explanation": " Products are glucose and oxygen.  Light-Dependent Reactions occur in the thylakoid membranes of the chloroplasts.",
+          "keyPoints": [
+            "Products are glucose and oxygen.",
+            "Light-Dependent Reactions occur in the thylakoid membranes of the chloroplasts."
+          ],
+          "vocabulary": [
+            {
+              "term": "Photosynthesis",
+              "definition": "Key term appearing frequently in the source material."
+            },
+            {
+              "term": "Carbon",
+              "definition": "Key term appearing frequently in the source material."
+            }
+          ],
+          "selfCheck": "What is the key point about \"Section 2\" and how does it relate to Photosynthesis is the biological process by which plants,...?"
+        },
+        {
+          "id": "card_3",
+          "sectionNumber": 3,
+          "title": "Section 3",
+          "mainIdea": "Chlorophyll absorbs sunlight to split water molecules, releasing oxygen and generating energy carriers ATP and NADPH.",
+          "explanation": " Chlorophyll absorbs sunlight to split water molecules, releasing oxygen and generating energy carriers ATP and NADPH.  Light-Independent Reactions (Calvin Cycle) occur in the stroma of the chloroplasts.",
+          "keyPoints": [
+            "Chlorophyll absorbs sunlight to split water molecules, releasing oxygen and generating energy carriers ATP and NADPH.",
+            "Light-Independent Reactions (Calvin Cycle) occur in the stroma of the chloroplasts."
+          ],
+          "vocabulary": [],
+          "selfCheck": "What is the key point about \"Section 3\" and how does it relate to Photosynthesis is the biological process by which plants,...?"
+        },
+        {
+          "id": "card_4",
+          "sectionNumber": 4,
+          "title": "Section 4",
+          "mainIdea": "They use the ATP and NADPH to fix carbon dioxide into sugars like glucose.",
+          "explanation": " They use the ATP and NADPH to fix carbon dioxide into sugars like glucose.  Photosynthesis forms the base of the food chain for nearly all life on Earth.",
+          "keyPoints": [
+            "They use the ATP and NADPH to fix carbon dioxide into sugars like glucose.",
+            "Photosynthesis forms the base of the food chain for nearly all life on Earth."
+          ],
+          "vocabulary": [],
+          "selfCheck": "What is the key point about \"Section 4\" and how does it relate to Photosynthesis is the biological process by which plants,...?"
+        }
+      ],
+      "completedCardIds": [],
+      "createdAt": "2026-10-13T08:08:41.666Z",
+      "updatedAt": "2026-10-13T08:08:41.666Z"
+    },
+    {
+      "id": "fc_1791878985886_nuirp",
+      "userId": "guest",
+      "sessionId": "sess_1791878985883_qii7l",
+      "title": "Photosynthesis is the biological process by which plants,...",
+      "cards": [
+        {
+          "id": "card_1",
+          "sectionNumber": 1,
+          "title": "Overview",
+          "mainIdea": "Photosynthesis is the biological process by which plants, algae, and cyanobacteria convert light energy into chemical energy to fuel thei...",
+          "explanation": "Photosynthesis is the biological process by which plants, algae, and cyanobacteria convert light energy into chemical energy to fuel their metabolism.",
+          "keyPoints": [
+            "Photosynthesis is the biological process by which plants, algae, and cyanobacteria convert light energy into chemical energy to fuel their metabolism."
+          ],
+          "vocabulary": [
+            {
+              "term": "Reactants",
+              "definition": "Carbon dioxide ([equation]), water ([equation]), and sunlight"
+            },
+            {
+              "term": "Products",
+              "definition": "Glucose ([equation]) and oxygen ([equation])"
+            }
+          ],
+          "selfCheck": "What is the key point about \"Overview\" and how does it relate to Photosynthesis is the biological process by which plants,...?"
+        },
+        {
+          "id": "card_2",
+          "sectionNumber": 2,
+          "title": "Chemical Formula",
+          "mainIdea": "Equation: [equation] Reactants: Carbon dioxide ([equation]), water ([equation]), and sunlight",
+          "explanation": "Equation: [equation] Reactants: Carbon dioxide ([equation]), water ([equation]), and sunlight",
+          "keyPoints": [
+            "Equation: [equation] Reactants: Carbon dioxide ([equation]), water ([equation]), and sunlight"
+          ],
+          "vocabulary": [
+            {
+              "term": "Light-Dependent Reactions",
+              "definition": "Occur in the thylakoid membranes of the chloroplasts"
+            },
+            {
+              "term": "Primary Producers",
+              "definition": "Forms the base of the food chain for nearly all life on Earth"
+            }
+          ],
+          "selfCheck": "What is the key point about \"Chemical Formula\" and how does it relate to Photosynthesis is the biological process by which plants,...?"
+        },
+        {
+          "id": "card_3",
+          "sectionNumber": 3,
+          "title": "Main Stages",
+          "mainIdea": "Light-Dependent Reactions: Occur in the thylakoid membranes of the chloroplasts.",
+          "explanation": "Light-Dependent Reactions: Occur in the thylakoid membranes of the chloroplasts. Chlorophyll absorbs sunlight to split water molecules, releasing oxygen and generating energy carriers (ATP and NADPH). Light-Independent Reactions (Calvin Cycle): Occur in the stroma of the chloroplasts. They use the ATP and NADPH produced in the first stage to fix carbon dioxide into sugars like glucose.",
+          "keyPoints": [
+            "Light-Dependent Reactions: Occur in the thylakoid membranes of the chloroplasts.",
+            "Chlorophyll absorbs sunlight to split water molecules, releasing oxygen and generating energy carriers (ATP and NADPH).",
+            "Light-Independent Reactions (Calvin Cycle): Occur in the stroma of the chloroplasts.",
+            "They use the ATP and NADPH produced in the first stage to fix carbon dioxide into sugars like glucose."
+          ],
+          "vocabulary": [
+            {
+              "term": "Atmospheric Oxygen",
+              "definition": "Maintains and replenishes the oxygen content in the atmosphere"
+            }
+          ],
+          "selfCheck": "What is the key point about \"Main Stages\" and how does it relate to Photosynthesis is the biological process by which plants,...?"
+        },
+        {
+          "id": "card_4",
+          "sectionNumber": 4,
+          "title": "Why It Matters",
+          "mainIdea": "Primary Producers: Forms the base of the food chain for nearly all life on Earth.",
+          "explanation": "Primary Producers: Forms the base of the food chain for nearly all life on Earth. Atmospheric Oxygen: Maintains and replenishes the oxygen content in the atmosphere.",
+          "keyPoints": [
+            "Primary Producers: Forms the base of the food chain for nearly all life on Earth.",
+            "Atmospheric Oxygen: Maintains and replenishes the oxygen content in the atmosphere."
+          ],
+          "vocabulary": [],
+          "selfCheck": "What is the key point about \"Why It Matters\" and how does it relate to Photosynthesis is the biological process by which plants,...?"
+        }
+      ],
+      "completedCardIds": [],
+      "createdAt": "2026-10-13T08:09:45.886Z",
+      "updatedAt": "2026-10-13T08:09:45.886Z"
+    },
+    {
+      "id": "fc_1791886627554_18p8b",
+      "userId": "guest",
+      "sessionId": "sess_1791886627548_5vtet",
+      "title": "Understanding Generative AI (GenAI)",
+      "cards": [
+        {
+          "id": "card_1",
+          "sectionNumber": 1,
+          "title": "What is Generative AI?",
+          "mainIdea": "Generative AI is a type of machine learning focused on creating new content.",
+          "explanation": "Generative Artificial Intelligence (GenAI) is a specialized area within machine learning. Its primary function is to learn the patterns and relationships within vast amounts of data, allowing it to produce entirely new, statistically likely digital content.",
+          "keyPoints": [
+            "GenAI is a branch of machine learning.",
+            "It learns from massive datasets to understand underlying patterns."
+          ],
+          "vocabulary": [
+            {
+              "term": "Generative Artificial Intelligence (GenAI)",
+              "definition": "A field of AI that creates new, original content based on learned patterns from data."
+            },
+            {
+              "term": "Machine Learning",
+              "definition": "A type of artificial intelligence that enables systems to learn from data and improve performance without explicit programming."
+            }
+          ],
+          "selfCheck": "What is the main goal of Generative AI?"
+        },
+        {
+          "id": "card_2",
+          "sectionNumber": 2,
+          "title": "How GenAI Learns: Probability Distributions",
+          "mainIdea": "GenAI models learn the probability distribution of data to generate realistic outputs.",
+          "explanation": "At its core, GenAI works by modeling the underlying probability distribution of its training data. This means it learns how likely certain combinations of features or elements are to occur together. By understanding these probabilities, GenAI can then generate new data points that are statistically probable and resemble the training data.",
+          "keyPoints": [
+            "GenAI models the probability distribution of training datasets.",
+            "This allows it to understand how data elements relate to each other."
+          ],
+          "vocabulary": [
+            {
+              "term": "Probability Distribution",
+              "definition": "A function that describes the likelihood of different possible outcomes for a variable."
+            },
+            {
+              "term": "Multi-dimensional Datasets",
+              "definition": "Data that has many features or variables, making it complex to analyze."
+            }
+          ],
+          "selfCheck": "What does GenAI learn about its training data to create new content?"
+        },
+        {
+          "id": "card_3",
+          "sectionNumber": 3,
+          "title": "The Power of Synthesis: Creating Novel Content",
+          "mainIdea": "GenAI synthesizes new digital content that is statistically probable.",
+          "explanation": "The 'generative' aspect of GenAI refers to its ability to synthesize or create. Based on the patterns learned from massive datasets, GenAI can produce novel digital content. This content is not a direct copy but is statistically probable, meaning it fits the learned distribution and appears authentic.",
+          "keyPoints": [
+            "GenAI synthesizes novel digital content.",
+            "The generated content is statistically probable, not copied."
+          ],
+          "vocabulary": [
+            {
+              "term": "Synthesize",
+              "definition": "To combine different elements or ideas to form a new, coherent whole."
+            },
+            {
+              "term": "Novel Content",
+              "definition": "Content that is new and original, not previously existing."
+            }
+          ],
+          "selfCheck": "What does it mean for GenAI to 'synthesize' content?"
+        },
+        {
+          "id": "card_4",
+          "sectionNumber": 4,
+          "title": "Applications of GenAI: From Text to Code",
+          "mainIdea": "GenAI can generate a wide variety of digital content in response to prompts.",
+          "explanation": "GenAI's capabilities extend to producing diverse forms of digital content. This includes generating human-like text, creating realistic images, composing audio, producing video clips, and even writing computer code. The generation process is typically initiated by a user's prompt, which guides the AI in creating the desired output.",
+          "keyPoints": [
+            "GenAI can create text, images, audio, video, and code.",
+            "User prompts guide the content generation process."
+          ],
+          "vocabulary": [
+            {
+              "term": "User Prompts",
+              "definition": "Instructions or queries given by a user to an AI system to elicit a specific response or output."
+            },
+            {
+              "term": "Digital Content",
+              "definition": "Any form of information that exists in a digital format, such as text, images, audio, or video."
+            }
+          ],
+          "selfCheck": "Name at least three types of digital content that GenAI can generate."
+        }
+      ],
+      "completedCardIds": [],
+      "createdAt": "2026-10-13T10:17:07.554Z",
+      "updatedAt": "2026-10-13T10:17:07.554Z"
+    },
+    {
+      "id": "fc_1791902340384_s4mqt",
+      "userId": "guest",
+      "sessionId": "sess_1791902340380_ssyka",
+      "title": "Understanding ACID Properties in SQL Databases",
+      "cards": [
+        {
+          "id": "card_1",
+          "sectionNumber": 1,
+          "title": "Atomicity: The All-or-Nothing Principle",
+          "mainIdea": "Atomicity ensures that a database transaction is treated as a single, indivisible unit of work, meaning it either completes entirely or not at all.",
+          "explanation": "Atomicity is like a single, unbreakable step in a process. If a transaction involves multiple operations (like adding an item to a cart and then updating inventory), atomicity guarantees that either all these operations succeed, or if even one fails, none of them are applied. This is managed using mechanisms like transaction logs and rollbacks, which undo any partial changes if the transaction cannot be fully completed, returning the database to its original state.",
+          "keyPoints": [
+            "Transactions are treated as a single, indivisible unit.",
+            "If any part of a transaction fails, the entire transaction is undone (rolled back).",
+            "Ensures the database is not left in a partially updated state."
+          ],
+          "vocabulary": [
+            {
+              "term": "Transaction",
+              "definition": "A sequence of database operations performed as a single logical unit of work."
+            },
+            {
+              "term": "Rollback",
+              "definition": "The process of undoing all changes made by a transaction that has failed or been aborted."
+            },
+            {
+              "term": "Commit",
+              "definition": "The process of making all changes made by a transaction permanent."
+            }
+          ],
+          "selfCheck": "What happens to a database if a transaction fails midway through its operations due to atomicity?"
+        },
+        {
+          "id": "card_2",
+          "sectionNumber": 2,
+          "title": "Consistency: Maintaining Database Integrity",
+          "mainIdea": "Consistency guarantees that a transaction will only move the database from one valid state to another, preserving all defined rules and integrity.",
+          "explanation": "Consistency ensures that after a transaction, the database remains in a state that adheres to all its rules, known as schema invariants. These rules include things like ensuring every record has a unique ID (entity integrity) and that relationships between tables are maintained (referential integrity). If a transaction tries to break these rules, like creating a record with a duplicate ID or linking to a non-existent record, the database will reject the transaction to prevent data corruption.",
+          "keyPoints": [
+            "Transactions must preserve the database's integrity rules (invariants).",
+            "Examples of invariants include primary keys and foreign key relationships.",
+            "Invalid data changes are prevented, maintaining a valid database state."
+          ],
+          "vocabulary": [
+            {
+              "term": "Schema Invariants",
+              "definition": "Rules and constraints defined in the database schema that must always be true."
+            },
+            {
+              "term": "Referential Integrity",
+              "definition": "Ensures that relationships between tables are valid; for example, a foreign key must reference an existing primary key."
+            },
+            {
+              "term": "Constraints",
+              "definition": "Rules enforced on data columns to ensure data accuracy and integrity."
+            }
+          ],
+          "selfCheck": "How does consistency prevent a user from deleting a customer record if that customer has active orders?"
+        },
+        {
+          "id": "card_3",
+          "sectionNumber": 3,
+          "title": "Isolation: Handling Concurrent Transactions",
+          "mainIdea": "Isolation ensures that concurrent transactions, running at the same time, do not interfere with each other's execution, making it seem as if they are running one by one.",
+          "explanation": "When multiple users or processes access the database simultaneously, isolation prevents their actions from messing up each other's results. It uses techniques like locking parts of the data (pessimistic) or keeping multiple versions of data (optimistic, like MVCC) to avoid problems like reading incomplete data (dirty reads) or seeing different results within the same transaction (non-repeatable reads). SQL defines different levels of isolation, offering trade-offs between strictness and performance.",
+          "keyPoints": [
+            "Prevents interference between simultaneously running transactions.",
+            "Avoids concurrency issues like dirty reads and phantom reads.",
+            "Uses locking or multi-versioning techniques to manage access."
+          ],
+          "vocabulary": [
+            {
+              "term": "Concurrency Phenomena",
+              "definition": "Problems that can arise when multiple transactions access data at the same time (e.g., dirty reads, non-repeatable reads)."
+            },
+            {
+              "term": "MVCC (Multi-Version Concurrency Control)",
+              "definition": "A method that allows transactions to access data without blocking each other by using multiple versions of data."
+            },
+            {
+              "term": "Serializable",
+              "definition": "The highest isolation level, where concurrent transactions produce the same result as if they were executed one after another."
+            }
+          ],
+          "selfCheck": "Why is isolation important in a busy e-commerce website with many users shopping at once?"
+        },
+        {
+          "id": "card_4",
+          "sectionNumber": 4,
+          "title": "Durability: Ensuring Permanent Data",
+          "mainIdea": "Durability guarantees that once a transaction is successfully completed and confirmed, its changes are permanent and will survive system failures.",
+          "explanation": "Durability means that once the database tells you a transaction is done (committed), that change is permanent, even if the server crashes immediately afterward. This is achieved by writing transaction details to a log file on disk before the commit is finalized. This log acts as a record that can be used to restore the data to its committed state after a failure, ensuring that no committed data is lost due to power outages or crashes.",
+          "keyPoints": [
+            "Committed transaction changes are permanent.",
+            "Data survives system crashes, power outages, or hardware failures.",
+            "Achieved by writing transaction logs to non-volatile storage before confirming the commit."
+          ],
+          "vocabulary": [
+            {
+              "term": "Non-Volatile Storage",
+              "definition": "Storage that retains data even when power is turned off (e.g., SSD, HDD)."
+            },
+            {
+              "term": "Fsync",
+              "definition": "A system call that forces data to be written from the operating system's buffer cache to the physical disk."
+            },
+            {
+              "term": "Crash Recovery",
+              "definition": "The process of restoring the database to a consistent state after a system failure."
+            }
+          ],
+          "selfCheck": "What mechanism ensures that your bank balance update remains saved even if the bank's server suddenly loses power?"
+        }
+      ],
+      "completedCardIds": [
+        "card_3"
+      ],
+      "createdAt": "2026-10-13T14:39:00.384Z",
+      "updatedAt": "2026-10-13T14:39:12.023Z"
+    },
+    {
+      "id": "fc_1791902448066_39z44",
+      "userId": "usr_1791902430793_w68lu",
+      "sessionId": "sess_1791902448060_o00fi",
+      "title": "Understanding ACID Properties in SQL Databases",
+      "cards": [
+        {
+          "id": "card_1",
+          "sectionNumber": 1,
+          "title": "Atomicity: All or Nothing Transactions",
+          "mainIdea": "Atomicity ensures that a database transaction is treated as a single, indivisible unit of work, either completing entirely or not at all.",
+          "explanation": "Atomicity means that a transaction is like a single step. If any part of that step fails, the whole step is undone. This is managed using transaction logs and a rollback process. If a command within the transaction doesn't work or breaks a rule, the database reverts all changes made during that transaction, returning the database to its state before the transaction began. This prevents partial updates.",
+          "keyPoints": [
+            "Transactions are treated as a single, indivisible unit.",
+            "If any part of a transaction fails, all changes are rolled back.",
+            "Ensures the database is either updated completely or not at all."
+          ],
+          "vocabulary": [
+            {
+              "term": "Transaction Log",
+              "definition": "A record of all changes made during a transaction, used for recovery."
+            },
+            {
+              "term": "Rollback",
+              "definition": "The process of undoing all changes made by a transaction that has failed or been aborted."
+            },
+            {
+              "term": "Commit",
+              "definition": "The process of making all changes from a transaction permanent."
+            }
+          ],
+          "selfCheck": "What happens to a transaction if one of its DML statements fails?"
+        },
+        {
+          "id": "card_2",
+          "sectionNumber": 2,
+          "title": "Consistency: Maintaining Database Integrity",
+          "mainIdea": "Consistency guarantees that a transaction will only move the database from one valid state to another, preserving all defined rules and integrity.",
+          "explanation": "Consistency ensures that any data entered or modified by a transaction must follow the database's rules, known as schema invariants. These rules include things like making sure every record has a unique ID (entity integrity) and that relationships between tables are maintained (referential integrity). If a transaction tries to break these rules, it will be stopped to prevent the database from becoming corrupted or inconsistent.",
+          "keyPoints": [
+            "Transactions must preserve the database's integrity rules.",
+            "Rules include entity integrity, referential integrity, and domain constraints.",
+            "Invalid data attempts will cause a transaction to abort."
+          ],
+          "vocabulary": [
+            {
+              "term": "Schema Invariants",
+              "definition": "Rules and constraints defined in the database schema that must always be true."
+            },
+            {
+              "term": "Referential Integrity",
+              "definition": "Ensures that relationships between tables are valid (e.g., a foreign key value must exist as a primary key in another table)."
+            },
+            {
+              "term": "Constraints",
+              "definition": "Rules that limit the data that can be entered into a database table."
+            }
+          ],
+          "selfCheck": "What is the purpose of consistency in a database transaction?"
+        },
+        {
+          "id": "card_3",
+          "sectionNumber": 3,
+          "title": "Isolation: Handling Concurrent Transactions",
+          "mainIdea": "Isolation ensures that concurrent transactions, running at the same time, do not interfere with each other's operations, preventing data corruption.",
+          "explanation": "When multiple users or processes access the database simultaneously, isolation controls how their changes affect each other. It prevents common problems like reading data that is still being changed (dirty reads) or seeing different results for the same query within one transaction (non-repeatable reads). This is achieved through methods like locking parts of the data or using Multi-Version Concurrency Control (MVCC) to keep track of different versions of data. Standard isolation levels define how strictly transactions are separated.",
+          "keyPoints": [
+            "Manages how simultaneous transactions interact with data.",
+            "Prevents concurrency issues like dirty reads and phantom reads.",
+            "Uses locking or MVCC to ensure transactions don't interfere."
+          ],
+          "vocabulary": [
+            {
+              "term": "Concurrency Phenomena",
+              "definition": "Problems that can arise when multiple transactions access data simultaneously (e.g., dirty reads, non-repeatable reads)."
+            },
+            {
+              "term": "MVCC",
+              "definition": "Multi-Version Concurrency Control, a method that allows transactions to access older versions of data to avoid blocking."
+            },
+            {
+              "term": "Serializable",
+              "definition": "The highest isolation level, where concurrent transactions appear to execute one after another, preventing all concurrency issues."
+            }
+          ],
+          "selfCheck": "Why is isolation important when multiple users are accessing a database at once?"
+        },
+        {
+          "id": "card_4",
+          "sectionNumber": 4,
+          "title": "Durability: Permanent Data Storage",
+          "mainIdea": "Durability guarantees that once a transaction is successfully completed and confirmed, its changes are permanent and will survive system failures.",
+          "explanation": "Durability ensures that once a transaction is marked as 'committed' (successfully completed), its changes are saved forever, even if the system crashes, power is lost, or hardware fails. This is achieved by writing the transaction's changes to a transaction log and then ensuring that log information is physically written to permanent storage (like a hard drive or SSD) before the commit is finalized. This allows the database to recover and reapply committed changes after a failure.",
+          "keyPoints": [
+            "Completed transaction changes are permanent.",
+            "Ensures data survives crashes, power outages, and hardware failures.",
+            "Achieved by writing transaction logs to non-volatile storage before committing."
+          ],
+          "vocabulary": [
+            {
+              "term": "Non-Volatile Storage",
+              "definition": "Storage that retains data even when power is turned off (e.g., SSD, HDD)."
+            },
+            {
+              "term": "Crash Recovery",
+              "definition": "The process of restoring the database to a consistent state after a system failure."
+            },
+            {
+              "term": "Fsync",
+              "definition": "A system call that forces data to be written from the operating system's buffer cache to the physical disk."
+            }
+          ],
+          "selfCheck": "How does a database ensure that committed transaction data is not lost even if the server crashes immediately after?"
+        }
+      ],
+      "completedCardIds": [],
+      "createdAt": "2026-10-13T14:40:48.066Z",
+      "updatedAt": "2026-10-13T14:40:48.066Z"
+    }
+  ],
+  "taskPlans": [
+    {
+      "id": "tp_1791902100681_fvnhj",
+      "userId": "guest",
+      "sessionId": "sess_1791902100676_5iw01",
+      "title": "Complete Study Blueprint: Generative AI",
+      "description": "Target goal: Generative AI",
+      "deadline": null,
+      "dailyAvailableMinutes": 60,
+      "totalEstimatedMinutes": 170,
+      "recommendedPriority": "high",
+      "feasibility": "Given a daily study time of 60 minutes, this plan is highly feasible. The total estimated time of 170 minutes is spread across four modules, allowing for approximately 42.5 minutes per module on average. This pace is manageable for a beginner, with flexibility to spend more time on challenging modules and less on those that are more intuitive.",
+      "schedulingNotes": "It is recommended to follow the modules sequentially as they build upon each other. Start with Module 1 to establish a strong foundation. Module 2 introduces the core techniques, which are then applied in Module 3. Module 4 consolidates learning and explores advanced aspects. Dedicate specific days or blocks of time within your week to each module, ensuring consistent engagement. For instance, aim to complete Module 1 within the first week, Module 2 in the second, and so on, adjusting based on your learning pace. Regular review of previous concepts is crucial for retention.",
+      "topicOverview": "This curriculum provides a structured pathway to understanding Generative AI, starting with its fundamental concepts and core architectures. It progresses through key algorithms and methods, moves to practical hands-on application with real-world projects, and concludes with advanced topics, ethical considerations, and comprehensive review. The plan is designed for beginners, allocating 60 minutes daily for flexible study, ensuring a solid grasp of Generative AI from theory to practice.",
+      "tasks": [
+        {
+          "id": "t_1",
+          "title": "Module 1: Foundations & Core Architecture of Generative AI",
+          "description": "Master the foundational theories, mathematical/conceptual pillars, and terminology that underpin Generative AI. This module sets the stage for understanding how these models learn and create.",
+          "subtopics": [
+            "Definition of Generative AI vs. Discriminative AI",
+            "Key concepts: Probability distributions, latent spaces, sampling",
+            "Introduction to Neural Networks (briefly, as building blocks)",
+            "Early Generative Models (e.g., Autoencoders, basic GANs conceptually)",
+            "Common Terminology: Tokens, embeddings, prompts, inference, training"
+          ],
+          "learningOutcomes": [
+            "Articulate the fundamental difference between generative and discriminative models.",
+            "Explain the role of latent spaces in generating new data.",
+            "Identify the basic components of a generative model architecture (e.g., encoder-decoder, generator-discriminator)."
+          ],
+          "estimatedMinutes": 40,
+          "priority": "high",
+          "status": "pending",
+          "dependencies": []
+        },
+        {
+          "id": "t_2",
+          "title": "Module 2: Key Algorithms, Methods & Variations",
+          "description": "Deep dive into the primary techniques, standard models, and operational workflows that power modern Generative AI.",
+          "subtopics": [
+            "Generative Adversarial Networks (GANs): Architecture, training process, loss functions (e.g., BCE, Wasserstein)",
+            "Variational Autoencoders (VAEs): Architecture, reparameterization trick, ELBO",
+            "Transformer Architecture: Self-attention mechanism, positional encoding, encoder-decoder structure (focus on decoder for generation)",
+            "Large Language Models (LLMs): Pre-training, fine-tuning, prompt engineering basics",
+            "Diffusion Models: Forward and reverse diffusion processes, noise scheduling"
+          ],
+          "learningOutcomes": [
+            "Describe the operational principles of GANs, VAEs, Transformers, and Diffusion Models.",
+            "Explain the core idea behind self-attention in Transformers.",
+            "Understand the concept of pre-training and fine-tuning for LLMs."
+          ],
+          "estimatedMinutes": 50,
+          "priority": "high",
+          "status": "pending",
+          "dependencies": [
+            "t_1"
+          ]
+        },
+        {
+          "id": "t_3",
+          "title": "Module 3: Hands-On Practice & Real-World Application",
+          "description": "Gain practical experience by setting up development environments, experimenting with pre-trained models, and building a simple generative application.",
+          "subtopics": [
+            "Setting up a Python environment (e.g., Google Colab, Jupyter Notebooks)",
+            "Introduction to key libraries: TensorFlow/Keras, PyTorch, Hugging Face Transformers",
+            "Using pre-trained models for text generation (e.g., GPT-2, T5)",
+            "Basic image generation with pre-trained GANs or Diffusion models (e.g., StyleGAN, Stable Diffusion)",
+            "Experimenting with prompt engineering for text generation tasks",
+            "Evaluating generated outputs qualitatively"
+          ],
+          "learningOutcomes": [
+            "Successfully run code examples for text and image generation using popular libraries.",
+            "Generate text outputs by providing different prompts to a pre-trained LLM.",
+            "Generate simple images using a pre-trained diffusion or GAN model.",
+            "Identify potential issues in generated outputs (e.g., repetition, incoherence, artifacts)."
+          ],
+          "estimatedMinutes": 50,
+          "priority": "medium",
+          "status": "pending",
+          "dependencies": [
+            "t_2"
+          ]
+        },
+        {
+          "id": "t_4",
+          "title": "Module 4: Advanced Topics, Ethics & Examination Review",
+          "description": "Synthesize understanding by exploring advanced concepts, ethical implications, and preparing for self-assessment.",
+          "subtopics": [
+            "Advanced LLM techniques: Few-shot learning, Reinforcement Learning from Human Feedback (RLHF)",
+            "Multimodal Generative AI (e.g., text-to-image, image-to-text)",
+            "Ethical considerations: Bias, misinformation, copyright, responsible AI development",
+            "Deployment considerations (brief overview)",
+            "Review of key concepts and algorithms",
+            "Practice problems and self-assessment questions"
+          ],
+          "learningOutcomes": [
+            "Discuss the ethical challenges associated with Generative AI.",
+            "Explain the concept of multimodal generation.",
+            "Articulate the basic principles of RLHF.",
+            "Confidently answer questions covering the curriculum's core topics."
+          ],
+          "estimatedMinutes": 30,
+          "priority": "medium",
+          "status": "pending",
+          "dependencies": [
+            "t_3"
+          ]
+        }
+      ],
+      "createdAt": "2026-10-13T14:35:00.681Z",
+      "updatedAt": "2026-10-13T14:35:00.681Z"
+    },
+    {
+      "id": "tp_1791902371392_i94vl",
+      "userId": "guest",
+      "sessionId": "sess_1791902371385_g17r8",
+      "title": "Comprehensive Study Blueprint: ACID Properties in Databases",
+      "description": "Target goal: ACID properties",
+      "deadline": null,
+      "dailyAvailableMinutes": 60,
+      "totalEstimatedMinutes": 170,
+      "recommendedPriority": "high",
+      "feasibility": "With 60 minutes of daily study, this plan is highly feasible. The total estimated time of 170 minutes allows for completion within 3 days, with ample time for review and practice exercises.",
+      "schedulingNotes": "Begin with Module 1 to establish a strong conceptual base. Progress sequentially through the modules, as each builds upon the previous one. Allocate dedicated time for the practice exercises in Module 3, as hands-on experience is crucial for solidifying understanding. Review Module 4 after completing the practical exercises to reinforce learning and address potential complexities.",
+      "topicOverview": "This curriculum provides a structured approach to understanding ACID properties, starting with their fundamental definitions and historical context, progressing through the core mechanisms of Atomicity, Consistency, Isolation, and Durability, and culminating in practical application and advanced considerations. It aims to build a solid foundation for anyone working with transactional databases.",
+      "tasks": [
+        {
+          "id": "t_1",
+          "title": "Module 1: Introduction to ACID Properties",
+          "description": "Understand the fundamental purpose and definition of ACID properties in database transactions. Learn the historical context and the 'why' behind these critical guarantees.",
+          "subtopics": [
+            "Definition of ACID (Atomicity, Consistency, Isolation, Durability)",
+            "The concept of a Database Transaction",
+            "Historical context and importance of ACID",
+            "Overview of the four properties and their individual goals"
+          ],
+          "learningOutcomes": [
+            "Define each of the ACID properties in your own words.",
+            "Explain why ACID properties are essential for reliable data management.",
+            "Identify a simple database transaction scenario."
+          ],
+          "estimatedMinutes": 30,
+          "priority": "high",
+          "status": "pending",
+          "dependencies": []
+        },
+        {
+          "id": "t_2",
+          "title": "Module 2: Deep Dive into Atomicity and Consistency",
+          "description": "Explore the mechanisms and implications of Atomicity (all-or-nothing execution) and Consistency (transaction integrity).",
+          "subtopics": [
+            "Atomicity: Transaction logs, rollback, commit operations.",
+            "Consistency: Database states, integrity constraints, valid transitions.",
+            "How Atomicity supports Consistency.",
+            "Examples of violations and enforcement."
+          ],
+          "learningOutcomes": [
+            "Explain how a transaction is made atomic using techniques like write-ahead logging.",
+            "Describe how consistency constraints are maintained during and after a transaction.",
+            "Provide examples of atomic and non-atomic operations.",
+            "Illustrate a scenario where consistency is violated and how it's prevented."
+          ],
+          "estimatedMinutes": 40,
+          "priority": "high",
+          "status": "pending",
+          "dependencies": [
+            "t_1"
+          ]
+        },
+        {
+          "id": "t_3",
+          "title": "Module 3: Deep Dive into Isolation and Durability",
+          "description": "Understand the principles of Isolation (concurrent transaction independence) and Durability (transaction persistence).",
+          "subtopics": [
+            "Isolation: Concurrency control, locking mechanisms (pessimistic, optimistic), transaction isolation levels (Read Uncommitted, Read Committed, Repeatable Read, Serializable).",
+            "Durability: Write-ahead logging (WAL), physical logging, recovery mechanisms.",
+            "Common concurrency issues (dirty reads, non-repeatable reads, phantom reads).",
+            "How Durability ensures data persistence after system failures."
+          ],
+          "learningOutcomes": [
+            "Explain the purpose of isolation levels and their trade-offs.",
+            "Describe common concurrency problems and how isolation levels mitigate them.",
+            "Explain the role of transaction logs in ensuring durability and recovery.",
+            "Differentiate between the four standard isolation levels."
+          ],
+          "estimatedMinutes": 50,
+          "priority": "high",
+          "status": "pending",
+          "dependencies": [
+            "t_2"
+          ]
+        },
+        {
+          "id": "t_4",
+          "title": "Module 4: Practical Application and Trade-offs",
+          "description": "Apply ACID concepts to real-world database scenarios and understand the performance implications and alternatives.",
+          "subtopics": [
+            "ACID in popular database systems (e.g., PostgreSQL, MySQL, SQL Server).",
+            "Performance implications of strict ACID compliance.",
+            "Introduction to BASE (Basically Available, Soft state, Eventually consistent) as an alternative.",
+            "When to prioritize ACID vs. BASE.",
+            "Designing schemas and queries with ACID in mind."
+          ],
+          "learningOutcomes": [
+            "Identify how ACID properties are implemented in common RDBMS.",
+            "Discuss the performance overhead associated with strong ACID guarantees.",
+            "Compare and contrast ACID with BASE properties.",
+            "Choose appropriate database strategies based on application requirements."
+          ],
+          "estimatedMinutes": 50,
+          "priority": "medium",
+          "status": "pending",
+          "dependencies": [
+            "t_3"
+          ]
+        }
+      ],
+      "createdAt": "2026-10-13T14:39:31.392Z",
+      "updatedAt": "2026-10-13T14:39:31.392Z"
+    }
+  ],
+  "challenges": []
+}
