@@ -4,10 +4,7 @@ export function errorHandler(err, req, res, next) {
   const status = err.status || err.statusCode || 500;
   const code = err.code || 'INTERNAL_ERROR';
 
-  let message = err.message || 'An unexpected error occurred. Please try again.';
-  if (status === 500 && process.env.NODE_ENV === 'production') {
-    message = 'An unexpected server error occurred. Please try again shortly.';
-  }
+  const message = err.message || 'An unexpected error occurred. Please try again.';
 
   res.status(status).json({
     success: false,

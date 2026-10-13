@@ -53,7 +53,8 @@ class Database {
       }
       fs.writeFileSync(DB_FILE, JSON.stringify(this.data, null, 2), 'utf-8');
     } catch (err) {
-      console.error('[DB] Failed to persist database:', err.message);
+      // In serverless environments (like Vercel read-only filesystem), log warning but don't fail
+      console.warn('[DB] Read-only or ephemeral environment, keeping changes in-memory:', err.message);
     }
   }
 
