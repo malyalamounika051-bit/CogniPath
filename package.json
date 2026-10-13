@@ -2,11 +2,24 @@
   "name": "cognipath",
   "version": "1.0.0",
   "description": "CogniPath — The Adaptive Student Intelligence Copilot",
+  "type": "module",
   "scripts": {
     "dev:client": "npm --prefix client run dev",
     "dev:server": "npm --prefix server run dev",
-    "build:client": "npm --prefix client run build",
+    "build": "npm --prefix client run build",
     "start": "npm --prefix server start"
+  },
+  "dependencies": {
+    "@google/generative-ai": "^0.24.0",
+    "bcryptjs": "^3.0.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "helmet": "^8.0.0",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^9.11.2",
+    "multer": "^1.4.5-lts.1",
+    "zod": "^3.24.2"
   },
   "keywords": ["education", "ai", "accessibility", "copilot", "adaptive-learning"],
   "author": "",
